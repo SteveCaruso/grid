@@ -25,7 +25,7 @@
 
 ## Semester 4: (*13 credits*)
 * PROGRAM Production II (3 credits)
-* Digital Portfolio (1 credit)
+* [Digital Portfolio](../classes/digital-portfolio.md) (1 credit)
 * Ethics (3 credits, GE)
 * Gen Ed Elective (3 credits, GE)
 * Gen Ed Elective (3 credits, GE)
