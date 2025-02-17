@@ -69,6 +69,10 @@
 
 **Total: 60 credits**
 
+# Tracks?
+
+Should we have specified tracks, or just a list of electives?
+
 ## Art Track
 1. Intro to Art for Game Designers (3 credits)
 2. Interactive Media Production (3 credits)
