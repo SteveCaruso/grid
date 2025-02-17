@@ -76,9 +76,10 @@
 4. Narrative & World-building (3 credits)
 
 ## Web Dev Track
-1. JavaScript OR Interactive Media Production
-2. Web Dev 2
-3. [From Concept to Company](../classes/from-concept-to-company.md) (3 credits)
+1. Interactive Media Production
+2. JavaScript
+3. Web Dev 2
+4. [From Concept to Company](../classes/from-concept-to-company.md) (3 credits)
 
 ## Entrepreneur Track?
 
