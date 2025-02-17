@@ -3,7 +3,7 @@
 # Base AAS
 
 ## Semester 1 (*16 credits*)
-* Intro to PROGRAM (1 credit)
+* [Intro to PROGRAM](../classes/intro-to-PROGRAM.md) (1 credit)
 * [Creative Computing I](../classes/creative-computing-i.md) (3 credits, CompLit)
 * Game Design Theory (3 credits)
 * [Web Page Development I](../classes/web-page-development-i.md) (3 credits)
@@ -38,7 +38,7 @@
 # Track Framework
 
 ## Semester 1 (*16 credits*)
-* Intro to PROGRAM (1 credit)
+* [Intro to PROGRAM](../classes/intro-to-PROGRAM.md) (1 credit)
 * [Creative Computing I](../classes/creative-computing-i.md) (3 credits, CompLit)
 * Game Design Theory (3 credits)
 * [Web Page Development I](../classes/web-page-development-i.md) (3 credits)
