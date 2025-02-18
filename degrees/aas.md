@@ -5,7 +5,7 @@
 ## Semester 1 (*16 credits*)
 * [Intro to PROGRAM](../classes/intro-to-PROGRAM.md) (1 credit)
 * [Creative Computing I](../classes/creative-computing-i.md) (3 credits, CompLit)
-* Game Design Theory (3 credits)
+* [Game Design Theory](../classes/game-design-theory.md) (3 credits)
 * [Web Page Development I](../classes/web-page-development-i.md) (3 credits)
 * Interactive Media Production (3 credits)
 * English 111 (3 credits, GE)
@@ -35,26 +35,28 @@
 **Total: 60 credits**
 
 
-# Track Framework
+# With Electives/Tracks
+
+Students must choose 4 courses from the PROGRAM Electives List. Suggested Tracks are below.
 
 ## Semester 1 (*16 credits*)
 * [Intro to PROGRAM](../classes/intro-to-PROGRAM.md) (1 credit)
 * [Creative Computing I](../classes/creative-computing-i.md) (3 credits, CompLit)
-* Game Design Theory (3 credits)
+* [Game Design Theory](../classes/game-design-theory.md) (3 credits)
 * [Web Page Development I](../classes/web-page-development-i.md) (3 credits)
-* **TRACK COURSE 1** (3 credits)
+* **PROGRAM ELECTIVE 1** (3 credits)
 * English 111 (3 credits, GE)
 
 ## Semester 2 (*15 credits*)
 * Creative Computing II (3 credits)
 * Game Engines (3 credits)
 * [User Experience Design](../classes/user-experience-design.md) (3 credits)
-* **TRACK COURSE 2** (3 credits)
+* **PROGRAM ELECTIVE 2** (3 credits)
 * English 112 (3 credits, GE)
 
 ## Semester 3: (*15 credits*)
 * PROGRAM Production I (3 credits)
-* **TRACK COURSE 3** (3 credits)
+* **PROGRAM ELECTIVE 3** (3 credits)
 * Ethics (3 credits, GE)
 * Math Requirement (3 credits, GE)
 * Gen Ed Elective (3 credits, GE)
@@ -63,17 +65,28 @@
 * PROGRAM Production II (3 credits)
 * [Current Issues in PROGRAM](../classes/current-issues-in-PROGRAM.md) (1 credit)
 * [Digital Portfolio](../classes/digital-portfolio.md) (1 credit)
-* **TRACK COURSE 4** (3 credits)
+* **PROGRAM ELECTIVE 4** (3 credits)
 * Gen Ed Elective (3 credits, GE)
 * Gen Ed Elective (3 credits, GE)
 
 **Total: 60 credits**
 
-# Tracks?
+# PROGRAM Electives List
 
-Should we have specified tracks, or just a list of electives?
+* Intro to Art for Game Designers (3 credits)
+* Interactive Media Production
+* [Interactive Audio & Video Design](../classes/interactive-audio-video-design.md) (3 credits)
+* Narrative & World-building (3 credits)
+* JavaScript
+* Web Page Development II
+* [From Concept to Company](../classes/from-concept-to-company.md)
 
-## Art Track
+
+# Suggested Tracks
+
+Should we have specified tracks, or just the list of electives?
+
+## Game Art Track
 1. Intro to Art for Game Designers (3 credits)
 2. Interactive Media Production (3 credits)
 3. [Interactive Audio & Video Design](../classes/interactive-audio-video-design.md) (3 credits)
