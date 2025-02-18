@@ -12,7 +12,7 @@
 
 ## Semester 2 (*16 credits*)
 * [Current Issues in PROGRAM](../classes/current-issues-in-PROGRAM.md) (1 credit)
-* Creative Computing II (3 credits)
+* [Creative Computing II](../classes/creative-computing-ii.md) (3 credits)
 * [Game Engines](../classes/game-engines.md) (3 credits)
 * [User Experience Design](../classes/user-experience-design.md) (3 credits)
 * English 112 (3 credits, GE)
@@ -48,7 +48,7 @@ Students must choose 4 courses from the PROGRAM Electives List. Suggested Tracks
 * English 111 (3 credits, GE)
 
 ## Semester 2 (*15 credits*)
-* Creative Computing II (3 credits)
+* [Creative Computing II](../classes/creative-computing-ii.md) (3 credits)
 * [Game Engines](../classes/game-engines.md) (3 credits)
 * [User Experience Design](../classes/user-experience-design.md) (3 credits)
 * **PROGRAM ELECTIVE 2** (3 credits)
