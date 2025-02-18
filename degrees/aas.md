@@ -87,10 +87,10 @@ Students must choose 4 courses from the PROGRAM Electives List. Suggested Tracks
 Should we have specified tracks, or just the list of electives?
 
 ## Game Art Track
+1. 2D Design
+1. Drawing 1
 1. Intro to Art for Game Designers (3 credits)
-2. Interactive Media Production (3 credits)
-3. [Interactive Audio & Video Design](../classes/interactive-audio-video-design.md) (3 credits)
-4. Narrative & World-building (3 credits)
+1. PROGRAM Elective
 
 ## Web Dev Track
 1. Interactive Media Production
