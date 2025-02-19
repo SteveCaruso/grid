@@ -90,7 +90,7 @@ Should we have specified tracks, or just the list of electives?
 1. 2D Design
 1. Drawing 1
 1. Intro to Art for Game Designers (3 credits)
-1. PROGRAM Elective
+1. Additional PROGRAM Elective
 
 ## Web Dev Track
 1. Interactive Media Production
