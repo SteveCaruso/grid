@@ -2,6 +2,8 @@
 
 Students must choose 3 courses from the IDEA Electives List. Suggested Tracks of study are below. Students must check if they meet any prerequisites for Elective courses.
 
+**NOTE: The course outlines linked here are in their current or originally proposed form and things have been moved around since. As a result, titles and numbers may be different, but all of them will be harmonized before the formal proposal is made.**
+
 ## Semester 1 (*16 credits*)
 * [IDEA XXX - Intro to IDEA](../classes/intro-to-idea.md) (1 credit)
 * [IDEA XXX - Creative Computing I](../classes/creative-computing-i.md) (3 credits, CompLit)
