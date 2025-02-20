@@ -1,5 +1,15 @@
 # IDEA Associates of Applied Science
 
+IDEA (Interactive Design, Entertainment, and Arts) is an interdisciplinary program designed to equip students with the creative and technical skills needed to excel in digital media, game development, and interactive computing. Blending design principles, programming, user experience, and rich media production, the program prepares students for careers in game design, web development, interactive storytelling, and emerging creative technologies. With hands-on projects, industry-standard tools, and a focus on innovation, students build a strong foundation in both artistic and technical aspects of interactive media.
+
+Graduates are able to:
+
+* Design and develop interactive digital experiences, including games, web applications, and multimedia projects, using fundamental programming and design principles.
+* Use industry-standard tools and technologies for creative computing, game development, interactive art, and rich media production.
+* Solve technical and design challenges in interactive media by applying critical thinking and problem-solving skills in interactive design, user experience, and systems implementation.
+* Collaborate effectively in multidisciplinary teams to produce polished, portfolio-ready projects that demonstrate technical and artistic proficiency.
+* Stay current with industry trends and emerging technologies, continuously improving their skills for career growth.
+
 Students must choose 3 courses from the IDEA Electives List. Suggested Tracks of study are below. Students must check if they meet any prerequisites for Elective courses.
 
 **NOTE: The course outlines linked here are in their current or originally proposed form and things have been moved around since. As a result, titles and numbers may be different, but all of them will be harmonized before the formal proposal is made.**
