@@ -3,7 +3,7 @@
 
 A proposed merger of the Game Dev, Game Art, and IDMX Programs at RVCC:
 
-* [Associate of Applied Science (A.A.S.)](./degrees/aas.md)
+* **[Interactive Design, Entertainment, & Arts (IDEA) A.A.S.](./degrees/aas.md)**
 
 The resulting program would have the following (based on Spring 2024 Fact Book figures):
 
@@ -24,4 +24,4 @@ The number of enrollments for this new program will likely be much higher, becau
 ### Foornotes
 
 * *= Includes a 2 confirmed improperly-coded majors.
-* **= The Fact Book does not count Game Art classes (listed under the ARTS prefix) as part of Game Dev. Game Art classes account for 23 enrollments according to Banner for Spring 2024. With this program's structure. 
+* **= The Fact Book does not count Game Art classes (listed under the ARTS prefix) as part of Game Dev. Game Art classes account for 23 enrollments according to Banner for Spring 2024.
