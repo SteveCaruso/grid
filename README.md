@@ -3,7 +3,7 @@
 
 A proposed merger of the Game Dev, Game Art, and IDMX Programs at RVCC:
 
-* **[Interactive Design, Entertainment, & Arts (IDEA) A.A.S.](./degrees/aas.md)**
+* **[Interactive Design, Entertainment, & Arts (IDEA) A.A.S. (Program Outline)](./degrees/aas.md)**
 
 The resulting program would have the following (based on Spring 2024 Fact Book figures):
 
