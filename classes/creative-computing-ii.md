@@ -2,11 +2,11 @@
 
 # ((THIS IS A CONCEPT COURSE OUTLINE))
 
-# ???? 2?? – Creative Computing II
+# GRID 111 – Creative Computing II
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** ???? 2?? Creative Computing II
+- **A.** **Course Number and Title:** GRID 111 Creative Computing II
 - **B.** **New or Modified Course:** New
 - **C.** **Date of Proposal:**  
     - Semester: Fall  
@@ -19,7 +19,7 @@
     - Laboratory: 2  
     - Out of class student work per week: 5
 - **H.**  
-    - [x] **Prerequisite (s):** A grade of C or higher in ???? 1?? Programming for Creative Computing
+    - [x] **Prerequisite (s):** A grade of C or higher in GRID 110 Creative Computing I
     - [ ] **Corequisite (s):**
     - [ ] **Prerequisite (s) and Corequisite (s):**
 - **I.** **Additional Fees:** Yes
@@ -27,7 +27,7 @@
 
 ## II. Catalog Description
 
-**Prerequisite: A grade of C or higher in ???? 1?? Programming for Creative Computing** This course builds upon the foundational concepts introduced in **Programming for Creative Computing** by exploring advanced programming techniques for digital media and interactive design. Students will deepen their understanding of object-oriented programming, algorithms, and real-time interactivity while working with Java, JavaScript, and frameworks such as p5.js and Processing.
+**Prerequisite: A grade of C or higher in GRID 110 Creative Computing I** This course builds upon the foundational concepts introduced in **Creative Computing I** by exploring advanced programming techniques for digital media and interactive design. Students will deepen their understanding of object-oriented programming, algorithms, and real-time interactivity while working with Java, JavaScript, and frameworks such as p5.js and Processing.
 
 Key topics include generative art, advanced animation, procedural content generation, physics-based simulations, and real-time data visualization. Students may also explore integration with external devices and sensors, as well as networking for interactive projects.
 

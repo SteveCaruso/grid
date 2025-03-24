@@ -1,10 +1,10 @@
 # RARITAN VALLEY COMMUNITY COLLEGE ACADEMIC COURSE OUTLINE
 
-# ???? 1?? – Programming for Creative Computing
+# GRID 110 – Creative Computing I
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** ???? 1?? Programming for Creative Computing
+- **A.** **Course Number and Title:** GRID 110 - Creative Computing I
 - **B.** **New or Modified Course:** New
 - **C.** **Date of Proposal:**  
     - Semester: Fall  
@@ -18,7 +18,7 @@
     - Out of class student work per week: 5
 - **H.** 
     - [ ] **Prerequisite (s):** 
-    - [x] **Corequisite (s):** XXXX 1XX Introduction to Game Development
+    - [x] **Corequisite (s):** GRID 1XX Introduction to Game Development
     - [ ] **Prerequisite (s) and **Corequisite (s):**:**
 - **I.** **Additional Fees:** Yes
 - **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** [Fill this in later]
