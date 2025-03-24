@@ -15,7 +15,7 @@ Students must choose 3 courses from the GRID Electives List. Suggested Tracks of
 **NOTE: The course outlines linked here are in their current or originally proposed form and things have been moved around since. As a result, titles and numbers may be different, but all of them will be harmonized before the formal proposal is made.**
 
 ## Semester 1 (*16 credits*)
-* [GRID XXX - Intro to IDEA](../classes/intro-to-grid.md) (1 credit)
+* [GRID XXX - Intro to GRID](../classes/intro-to-grid.md) (1 credit)
 * [GRID XXX - Creative Computing I](../classes/creative-computing-i.md) (3 credits, CompLit)
 * [GRID XXX - Game Design Theory](../classes/game-design-theory.md) (3 credits)
 * [GRID XXX - Web Page Development I](../classes/web-page-development-i.md) (3 credits)
@@ -30,17 +30,17 @@ Students must choose 3 courses from the GRID Electives List. Suggested Tracks of
 * ENGL 112 - English Composition II (3 credits, GE)
 
 ## Semester 3: (*15 credits*)
-* GRID XXX - GRID Production I (3 credits)
-* **IDEA ELECTIVE 2** (3 credits)
+* [GRID XXX - GRID Production I](../classes/grid-production-1.md) (3 credits)
+* **GRID ELECTIVE 2** (3 credits)
 * PHIL 114 - Ethics (3 credits, GE)
 * Math Requirement (3 credits, GE)
 * Gen Ed Elective (3 credits, GE)
 
 ## Semester 4: (*14 credits*)
-* GRID XXX - IDEA Production II (3 credits)
-* [GRID XXX - Current Issues in IDEA](../classes/current-issues-in-grid.md) (1 credit)
+* [GRID XXX - GRID Production II](../classes/grid-production-ii.md) (3 credits)
+* [GRID XXX - Current Issues in GRID](../classes/current-issues-in-grid.md) (1 credit)
 * [GRID XXX - Digital Portfolio](../classes/digital-portfolio.md) (1 credit)
-* **IDEA ELECTIVE 3** (3 credits)
+* **GRID ELECTIVE 3** (3 credits)
 * Gen Ed Elective (3 credits, GE)
 * Gen Ed Elective (3 credits, GE)
 
@@ -70,27 +70,31 @@ Students must choose 3 courses from the GRID Electives List. Suggested Tracks of
 For particular concentrations, it is suggested that students in IDEA follow these paths.
 
 ## Game Art Path
+Focuses on developing artistic skills essential for game design, including composition, drawing, and visual storytelling. Students gain a foundation in traditional and digital art techniques to create compelling game assets.
 1. ARTS 105 - Two-D Design
 1. ARTS 110 - Basic Drawing I
 1. Additional IDEA Elective
 
-## Web Dev Path
+## Web Dev 
+Prepares students for careers in Front-End and UX Design by covering JavaScript, advanced web development, and entrepreneurial skills. Emphasizes both technical proficiency and user-centered design principles.
 1. GRID XXX - JavaScript
 1. GRID XXX - Web Dev 2
 1. [GRID XXX - From Concept to Company](../classes/from-concept-to-company.md) (3 credits)
 
 ## Programming & Systems Implementation Path
+Designed for students interested in the technical aspects of game development, including gameplay programming, systems implementation, and best practices for production-level code. Offers a mix of foundational programming and specialized gameplay mechanics.
 1. Programming Elective
 1. Gameplay Programming
 1. GRID XXX - Gameplay Implementation
 
 ## Rich Media Production Path
+Covers the creation of audio, animation, and video elements used in games and interactive experiences. Ideal for students interested in sound design, motion graphics, and multimedia storytelling.
 1. ARTS 113 - Audio Production
-1. ???? ??? - Animation
-1. ???? ??? - Game Audio and Video(?)
+1. GRID ??? - Animation
+1. GRID ??? - Game Audio and Video(?)
 
 ## Entrepreneur Path
-
+Equips students with business and management skills to launch their own creative ventures. Covers business fundamentals, small business management, and strategies for turning game and media concepts into viable companies.
 1. BUSI 111 - Introduction to Business
 1. BUSI 153 - Small Business Managment
 1. [GRID XXX - From Concept to Company](../classes/from-concept-to-company.md) (3 credits)
