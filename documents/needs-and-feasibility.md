@@ -56,6 +56,7 @@ Employer feedback and industry advisory committees generally emphasize the need 
                                                                
 ### Projected Revenue and Expenses:
 
+- GRID will be **Perkins elligible**.
 - Estimated enrollment: **70 active majors per semester**
 - Estimated program course enrollments: **~245 per semester, plus “tourists” in electives and Gen Ed.**
     - Average program-specific courses per student: **3.25 - 3.75 per semester** (higher than previous programs: Game Art: 1.5, Game Dev: 1.75, IDMX: 2.0)
