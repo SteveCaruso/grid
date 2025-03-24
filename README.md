@@ -23,8 +23,8 @@ The "core" of the GRID Program is made up of:
     1. **[Digital Portfolio](./classes/digital-portfolio.md)** wherein students build a solid portfolio to document all of their achivements.
 2. **[Creative Computing I](./classes/creative-computing-i.md)** which introduces fundamental programming concepts and problem-solving techniques for interactive media, focusing on logic, basic programming, and creative applications in digital environments.
 3. **[Creative Computing II](./classes/creative-computing-ii.md)** which expands on programming skills with more complex concepts and applications, incorporating industry-relevant tools and workflows for game development, web applications, and interactive experiences.
-4. **GRID Production I** which focuses on the development pipeline for interactive projects, teaching students how to plan, prototype, and iterate on digital experiences using industry-standard tools and methodologies; and
-5. **GRID Production II** which emphasizes finalizing and polishing interactive projects, with students applying advanced production techniques, collaboration skills, and portfolio development to prepare for industry entry.
+4. **[GRID Production I](./classes/grid-production-i.md)** which focuses on the development pipeline for interactive projects, teaching students how to plan, prototype, and iterate on digital experiences using industry-standard tools and methodologies; and
+5. **[GRID Production II](./classes/grid-production-ii.md)** which emphasizes finalizing and polishing interactive projects, with students applying advanced production techniques, collaboration skills, and portfolio development to prepare for industry entry.
 
 
 ### Program Trajectory
