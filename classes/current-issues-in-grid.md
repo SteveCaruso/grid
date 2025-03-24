@@ -1,10 +1,10 @@
 # RARITAN VALLEY COMMUNITY COLLEGE ACADEMIC COURSE OUTLINE
 
-# ??? 1?? – Current Issues in PROGRAM
+# ??? 1?? – Current Issues in GRID
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** ??? 1?? Current Issues in PROGRAM
+- **A.** **Course Number and Title:** ??? 1?? Current Issues in GRID
 - **B.** **New or Modified Course:** New
 - **C.** **Date of Proposal:**  
     - Semester: Fall  
@@ -35,7 +35,7 @@ This course examines emerging trends, ethical considerations, and contemporary i
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** This course meets a program requirement for PROGRAM.
+- **A.** This course meets a program requirement for GRID.
 - **B.** Free Elective
 - **C.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
@@ -43,7 +43,7 @@ This course examines emerging trends, ethical considerations, and contemporary i
 
 The course content will change depending upon current trends, but possible topics during this revision period may include:
 
-1. **Introduction to Current Issues in PROGRAM**  
+1. **Introduction to Current Issues in GRID**  
    - Overview of contemporary challenges and trends  
    - The role of game designers in shaping the industry  
    
