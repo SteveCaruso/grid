@@ -5,6 +5,7 @@
 
 
 **Proposed Program Title:** Game & Real-time Interactive Design (GRID)
+
 **Date:** March 6th 2025
   
 ### Proposed Type of Degree or Certificate (if applicable)
