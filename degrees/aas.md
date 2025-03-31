@@ -81,7 +81,7 @@ Prepares students for careers in Front-End and UX Design by covering JavaScript,
 1. GRID XXX - Web Dev 2
 1. [GRID XXX - From Concept to Company](../classes/from-concept-to-company.md) (3 credits)
 
-## Programming & Systems Implementation Path
+## Game Development Programming
 Designed for students interested in the technical aspects of game development, including gameplay programming, systems implementation, and best practices for production-level code. Offers a mix of foundational programming and specialized gameplay mechanics.
 1. Programming Elective
 1. Gameplay Programming
