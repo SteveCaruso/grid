@@ -15,31 +15,31 @@ Students must choose 3 courses from the GRID Electives List. Suggested Tracks of
 **NOTE: The course outlines linked here are in their current or originally proposed form and things have been moved around since. As a result, titles and numbers may be different, but all of them will be harmonized before the formal proposal is made.**
 
 ## Semester 1 (*16 credits*)
-* [GRID XXX - Intro to GRID](../classes/intro-to-grid.md) (1 credit) **NEW**
-* [GRID XXX - Creative Computing I](../classes/creative-computing-i.md) (3 credits, CompLit) **NEW**
+* [GRID XXX - Intro to GRID](../classes/intro-to-grid.md) (1 credit) — **NEW**
+* [GRID XXX - Creative Computing I](../classes/creative-computing-i.md) (3 credits, CompLit) — **NEW**
 * [GRID XXX - Game Design Theory](../classes/game-design-theory.md) (3 credits) **Revised**
 * [GRID XXX - Web Page Development I](../classes/web-page-development-i.md) (3 credits)
-* [GRID XXX - Intro to Art For Game Designers](../classes/intro-to-art-for-game-designers.md) (3 credits) **Revised**
+* [GRID XXX - Intro to Art For Game Designers](../classes/intro-to-art-for-game-designers.md) (3 credits) — **Revised**
 * ENGL 111 - English Composition I (3 credits, GE)
 
 ## Semester 2 (*15 credits*)
-* [GRID XXX - Creative Computing II](../classes/creative-computing-ii.md) (3 credits) **NEW**
-* [GRID XXX - Game Engines](../classes/game-engines.md) (3 credits) **Revised**
-* [GRID XXX - User Experience Design](../classes/user-experience-design.md) (3 credits) **Revised**
+* [GRID XXX - Creative Computing II](../classes/creative-computing-ii.md) (3 credits) — **NEW**
+* [GRID XXX - Game Engines](../classes/game-engines.md) (3 credits) — **Revised**
+* [GRID XXX - User Experience Design](../classes/user-experience-design.md) (3 credits) — **Revised**
 * **GRID ELECTIVE 1** (3 credits)
 * ENGL 112 - English Composition II (3 credits, GE)
 
 ## Semester 3: (*15 credits*)
-* [GRID XXX - GRID Production I](../classes/grid-production-1.md) (3 credits) **NEW**
+* [GRID XXX - GRID Production I](../classes/grid-production-1.md) (3 credits) — **NEW**
 * **GRID ELECTIVE 2** (3 credits)
 * PHIL 114 - Ethics (3 credits, GE)
 * Math Requirement (3 credits, GE)
 * Gen Ed Elective (3 credits, GE)
 
 ## Semester 4: (*14 credits*)
-* [GRID XXX - GRID Production II](../classes/grid-production-ii.md) (3 credits) **NEW**
-* [GRID XXX - Current Issues in GRID](../classes/current-issues-in-grid.md) (1 credit) **NEW**
-* [GRID XXX - Digital Portfolio](../classes/digital-portfolio.md) (1 credit) **Revised**
+* [GRID XXX - GRID Production II](../classes/grid-production-ii.md) (3 credits) — **NEW**
+* [GRID XXX - Current Issues in GRID](../classes/current-issues-in-grid.md) (1 credit) — **NEW**
+* [GRID XXX - Digital Portfolio](../classes/digital-portfolio.md) (1 credit) — **Revised**
 * **GRID ELECTIVE 3** (3 credits)
 * Gen Ed Elective (3 credits, GE)
 * Gen Ed Elective (3 credits, GE)
@@ -49,12 +49,12 @@ Students must choose 3 courses from the GRID Electives List. Suggested Tracks of
 
 # GRID Electives List
 
-* [GRID XXX - Interactive Audio & Video Design](../classes/interactive-audio-video-design.md) (3 credits) **Revised**
-* GRID XXX - Narrative & World-building (3 credits) **Revised**
+* [GRID XXX - Interactive Audio & Video Design](../classes/interactive-audio-video-design.md) (3 credits) — **Revised**
+* GRID XXX - Narrative & World-building (3 credits) — **NEW**
 * GRID XXX - JavaScript
 * GRID XXX - Web Page Development II
-* [GRID XXX - From Concept to Company](../classes/from-concept-to-company.md) **NEW**
-* GRID XXX - Gameplay Implementation **NEW**
+* [GRID XXX - From Concept to Company](../classes/from-concept-to-company.md) — **NEW**
+* GRID XXX - Gameplay Implementation — **NEW**
     * A rotating set of 4-6 electives covering topics such as:
         * Action
         * Cozy
