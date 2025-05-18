@@ -1,5 +1,8 @@
 # IDMX → GRID Teach Out Plan
 
+- [Associate of Applied Science](#aas-degree-teach-out)
+- [Associate of Science](#as-degree-teach-out)
+
 ## A.A.S. Degree Teach Out
 
 ### First Semester - Equivalencies *on paper*
@@ -54,7 +57,7 @@
  - ~~**IDMX 114** - Interactive Multimedia *3 Credits*~~ → **GRID XXX** - Creative Computing II
  - **IDMX 225** - Web Page Development I *3 Credits*  
  - ~~**CSIT 103** - Computer Concepts and Programming *4 Credits*~~
-    - ~~***or*** **CSIT 105** - Foundations of Computer Science *4 Credits* ~~
+    - ~~***or*** **CSIT 105** - Foundations of Computer Science *4 Credits*~~
     - **OR** **GRID XXX** - Creative Computing I **3 Credits** **—AND—** **GRID XXX** Intro to GRID *1 Credit*
  - **MATH 101** - Number Systems *3 Credits*
     - ***or*** ***Mathematics*** *3 Credits*[1](#Footnotes)
