@@ -17,15 +17,15 @@ Students must choose 3 courses from the GRID Electives List. Suggested Tracks of
 ## Semester 1 (*16 credits*)
 * [GRID 100 - Intro to GRID](../classes/intro-to-grid.md) (1 credit) — **NEW**
 * [GRID 111 - Creative Computing I](../classes/creative-computing-i.md) (3 credits, CompLit) — **NEW**
-* [GRID 120 - Game Design Theory](../classes/game-design-theory.md) (3 credits) **Revised GDEV 106**
+* [GRID 120 - Game Design Theory](../classes/game-design-theory.md) (3 credits) **REVISED GDEV 106**
 * [GRID 130 - Web Page Development I](../classes/web-page-development-i.md) (3 credits)
-* [GRID 140 - Intro to Art For Game Designers](../classes/intro-to-art-for-game-designers.md) (3 credits) — **Revised**
+* [GRID 140 - Intro to Art For Game Designers](../classes/intro-to-art-for-game-designers.md) (3 credits) — **NEW**
 * ENGL 111 - English Composition I (3 credits, GE)
 
 ## Semester 2 (*15 credits*)
 * [GRID 112 - Creative Computing II](../classes/creative-computing-ii.md) (3 credits) — **NEW**
-* [GRID 150 - Game Engines](../classes/game-engines.md) (3 credits) — **Revised ARTS 106**
-* [GRID 160 - User Experience Design](../classes/user-experience-design.md) (3 credits) — **Revised IDMX 208**
+* [GRID 150 - Game Engines](../classes/game-engines.md) (3 credits) — **REVISED ARTS 106**
+* [GRID 160 - User Experience Design](../classes/user-experience-design.md) (3 credits) — **REVISED IDMX 208**
 * **GRID ELECTIVE 1** (3 credits)
 * ENGL 112 - English Composition II (3 credits, GE)
 
@@ -39,7 +39,7 @@ Students must choose 3 courses from the GRID Electives List. Suggested Tracks of
 ## Semester 4: (*14 credits*)
 * [GRID 202 - GRID Production II](../classes/grid-production-ii.md) (3 credits) — **NEW**
 * [GRID 210 - Current Issues in GRID](../classes/current-issues-in-grid.md) (1 credit) — **NEW**
-* [GRID 299 - Digital Portfolio](../classes/digital-portfolio.md) (1 credit) — **Revised IDMX 299**
+* [GRID 299 - Digital Portfolio](../classes/digital-portfolio.md) (1 credit) — **REVISED IDMX 299**
 * **GRID ELECTIVE 3** (3 credits)
 * Gen Ed Elective (3 credits, GE)
 * Gen Ed Elective (3 credits, GE)
@@ -49,8 +49,8 @@ Students must choose 3 courses from the GRID Electives List. Suggested Tracks of
 
 # GRID Electives List
 
-* [GRID 220 - Interactive Audio & Video Design](../classes/interactive-audio-video-design.md) (3 credits) — **NEW **
-* GRID 221 - Narrative & World-building (3 credits) — **Revised ARTS 259**
+* [GRID 220 - Interactive Audio & Video Design](../classes/interactive-audio-video-design.md) (3 credits) — **REVISED ARTS 277**
+* GRID 221 - Narrative & World-building (3 credits) — **REVISED ARTS 259**
 * GRID 230 - Web Page Development II
 * GRID 231 - JavaScript
 * [GRID 240 - From Concept to Company](../classes/from-concept-to-company.md) — **NEW**

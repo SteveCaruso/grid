@@ -5,7 +5,7 @@
 ## I. Basic Course Information
 
 - **A.** **Course Number and Title:** GRID 220 - Interactive Audio & Video Design
-- **B.** **New or Modified Course:** New
+- **B.** **New or Modified Course:** Revised
 - **C.** **Date of Proposal:**  
     - Semester: Fall  
     - Year: 2025
