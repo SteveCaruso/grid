@@ -15,31 +15,31 @@ Students must choose 3 courses from the GRID Electives List. Suggested Tracks of
 **NOTE: The course outlines linked here are in their current or originally proposed form and things have been moved around since. As a result, titles and numbers may be different, but all of them will be harmonized before the formal proposal is made.**
 
 ## Semester 1 (*16 credits*)
-* [GRID XXX - Intro to GRID](../classes/intro-to-grid.md) (1 credit) — **NEW**
-* [GRID XXX - Creative Computing I](../classes/creative-computing-i.md) (3 credits, CompLit) — **NEW**
-* [GRID XXX - Game Design Theory](../classes/game-design-theory.md) (3 credits) **Revised**
-* [GRID XXX - Web Page Development I](../classes/web-page-development-i.md) (3 credits)
-* [GRID XXX - Intro to Art For Game Designers](../classes/intro-to-art-for-game-designers.md) (3 credits) — **Revised**
+* [GRID 100 - Intro to GRID](../classes/intro-to-grid.md) (1 credit) — **NEW**
+* [GRID 111 - Creative Computing I](../classes/creative-computing-i.md) (3 credits, CompLit) — **NEW**
+* [GRID 120 - Game Design Theory](../classes/game-design-theory.md) (3 credits) **Revised GDEV 106**
+* [GRID 130 - Web Page Development I](../classes/web-page-development-i.md) (3 credits)
+* [GRID 140 - Intro to Art For Game Designers](../classes/intro-to-art-for-game-designers.md) (3 credits) — **Revised**
 * ENGL 111 - English Composition I (3 credits, GE)
 
 ## Semester 2 (*15 credits*)
-* [GRID XXX - Creative Computing II](../classes/creative-computing-ii.md) (3 credits) — **NEW**
-* [GRID XXX - Game Engines](../classes/game-engines.md) (3 credits) — **Revised**
-* [GRID XXX - User Experience Design](../classes/user-experience-design.md) (3 credits) — **Revised**
+* [GRID 112 - Creative Computing II](../classes/creative-computing-ii.md) (3 credits) — **NEW**
+* [GRID 150 - Game Engines](../classes/game-engines.md) (3 credits) — **Revised ARTS 106**
+* [GRID 160 - User Experience Design](../classes/user-experience-design.md) (3 credits) — **Revised IDMX 208**
 * **GRID ELECTIVE 1** (3 credits)
 * ENGL 112 - English Composition II (3 credits, GE)
 
 ## Semester 3: (*15 credits*)
-* [GRID XXX - GRID Production I](../classes/grid-production-1.md) (3 credits) — **NEW**
+* [GRID 201 - GRID Production I](../classes/grid-production-1.md) (3 credits) — **NEW**
 * **GRID ELECTIVE 2** (3 credits)
 * PHIL 114 - Ethics (3 credits, GE)
 * Math Requirement (3 credits, GE)
 * Gen Ed Elective (3 credits, GE)
 
 ## Semester 4: (*14 credits*)
-* [GRID XXX - GRID Production II](../classes/grid-production-ii.md) (3 credits) — **NEW**
-* [GRID XXX - Current Issues in GRID](../classes/current-issues-in-grid.md) (1 credit) — **NEW**
-* [GRID XXX - Digital Portfolio](../classes/digital-portfolio.md) (1 credit) — **Revised**
+* [GRID 202 - GRID Production II](../classes/grid-production-ii.md) (3 credits) — **NEW**
+* [GRID 210 - Current Issues in GRID](../classes/current-issues-in-grid.md) (1 credit) — **NEW**
+* [GRID 299 - Digital Portfolio](../classes/digital-portfolio.md) (1 credit) — **Revised IDMX 299**
 * **GRID ELECTIVE 3** (3 credits)
 * Gen Ed Elective (3 credits, GE)
 * Gen Ed Elective (3 credits, GE)
@@ -49,12 +49,12 @@ Students must choose 3 courses from the GRID Electives List. Suggested Tracks of
 
 # GRID Electives List
 
-* [GRID XXX - Interactive Audio & Video Design](../classes/interactive-audio-video-design.md) (3 credits) — **Revised**
-* GRID XXX - Narrative & World-building (3 credits) — **NEW**
-* GRID XXX - JavaScript
-* GRID XXX - Web Page Development II
-* [GRID XXX - From Concept to Company](../classes/from-concept-to-company.md) — **NEW**
-* GRID XXX - Gameplay Implementation — **NEW**
+* [GRID 220 - Interactive Audio & Video Design](../classes/interactive-audio-video-design.md) (3 credits) — **NEW **
+* GRID 221 - Narrative & World-building (3 credits) — **Revised ARTS 259**
+* GRID 230 - Web Page Development II
+* GRID 231 - JavaScript
+* [GRID 240 - From Concept to Company](../classes/from-concept-to-company.md) — **NEW**
+* GRID 250 - Gameplay Implementation — **NEW**
     * A rotating set of 4-6 electives covering topics such as:
         * Action
         * Cozy
@@ -77,15 +77,15 @@ Focuses on developing artistic skills essential for game design, including compo
 
 ## Web Dev 
 Prepares students for careers in Front-End and UX Design by covering JavaScript, advanced web development, and entrepreneurial skills. Emphasizes both technical proficiency and user-centered design principles.
-1. GRID XXX - JavaScript
-1. GRID XXX - Web Dev 2
-1. [GRID XXX - From Concept to Company](../classes/from-concept-to-company.md) (3 credits)
+1. GRID 230 - Web Dev 2
+1. GRID 231 - JavaScript
+1. [GRID 240 - From Concept to Company](../classes/from-concept-to-company.md) (3 credits)
 
 ## Game Development Programming
 Designed for students interested in the technical aspects of game development, including gameplay programming, systems implementation, and best practices for production-level code. Offers a mix of foundational programming and specialized gameplay mechanics.
 1. Programming Elective
 1. Gameplay Programming
-1. GRID XXX - Gameplay Implementation
+1. GRID 250 - Gameplay Implementation
 
 ## Rich Media Production Path
 Covers the creation of audio, animation, and video elements used in games and interactive experiences. Ideal for students interested in sound design, motion graphics, and multimedia storytelling.
@@ -97,4 +97,4 @@ Covers the creation of audio, animation, and video elements used in games and in
 Equips students with business and management skills to launch their own creative ventures. Covers business fundamentals, small business management, and strategies for turning game and media concepts into viable companies.
 1. BUSI 111 - Introduction to Business
 1. BUSI 153 - Small Business Managment
-1. [GRID XXX - From Concept to Company](../classes/from-concept-to-company.md) (3 credits)
+1. [GRID 240 - From Concept to Company](../classes/from-concept-to-company.md) (3 credits)

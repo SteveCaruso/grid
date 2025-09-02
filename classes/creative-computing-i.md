@@ -1,10 +1,10 @@
 # RARITAN VALLEY COMMUNITY COLLEGE ACADEMIC COURSE OUTLINE
 
-# GRID 110 – Creative Computing I
+# GRID 111 – Creative Computing I
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** GRID 110 - Creative Computing I
+- **A.** **Course Number and Title:** GRID 111 - Creative Computing I
 - **B.** **New or Modified Course:** New
 - **C.** **Date of Proposal:**  
     - Semester: Fall  
@@ -21,7 +21,10 @@
     - [x] **Corequisite (s):** GRID 1XX Introduction to Game Development
     - [ ] **Prerequisite (s) and **Corequisite (s):**:**
 - **I.** **Additional Fees:** Yes
-- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** [Fill this in later]
+- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** 
+    - Patrice Marks (Dean) - patrice.marks@raritanval.edu
+    - Virginia Smith (Co-Chair) - virginia.smith@raritanval.edu
+    - Darren McManus (Co-Chair) - darren.mcmanus@raritanval.edu
 
 ## II. Catalog Description
 
@@ -142,6 +145,8 @@ The modes and methods for teaching and learning that may be used in the course:
 ## IX. Resources
 - **A.** Computer Lab for classroom instruction and exercises
 - **B.** Technology Support (Javascript enabled web browser installed on the workstations in the Computer Lab, Processing development environment (PDE) and Java SDK.
+
+(Please Note: The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.)
 
 ## X. Honors Options
 - [ ] Honors Course

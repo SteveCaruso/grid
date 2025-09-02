@@ -9,7 +9,7 @@
 - **C.** **Date of Proposal:**  
     - Semester: Fall  
     - Year: 2025
-- **D.** **Effective Term:** Spring 2026
+- **D.** **Effective Term:** Fall 2026
 - **E.** **Sponsoring Department:** Arts & Design
 - **F.** **Semester Credit Hours:** 1
 - **G.** **Weekly Contact Hours:** 2  
@@ -21,7 +21,10 @@
     - [ ] **Corequisite (s):** 
     - [ ] **Prerequisite (s) and **Corequisite (s):**:**
 - **I.** **Additional Fees:** No.
-- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** [Fill this in later]
+- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** 
+    - Patrice Marks (Dean) - patrice.marks@raritanval.edu
+    - Virginia Smith (Co-Chair) - virginia.smith@raritanval.edu
+    - Darren McManus (Co-Chair) - darren.mcmanus@raritanval.edu
 
 ## II. Catalog Description
 
@@ -97,6 +100,7 @@ The modes and methods for teaching and learning that may be used in the course:
 - **A.** Computer lab with internet and software access
 
 ## X. Honors Options
-
-N/A
+- [ ] Honors Course
+- [ ] Honors Option
+- [x] N/A
 

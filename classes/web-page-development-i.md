@@ -1,32 +1,36 @@
 # RARITAN VALLEY COMMUNITY COLLEGE ACADEMIC COURSE OUTLINE
 
-# (NEEDS UPDATE!! This is the current outline.)
-
-# IDMX 225 - Web Page Development I
+# GRID 130 - Web Page Development I
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** : IDMX 225 Web Page Development I
+- **A.** **Course Number and Title:** : GRID 130 - Web Page Development I
 - **B.** **New or Modified Course:** Modified
-- **C.** **Date of Proposal:** Fall 2018
-- **D.** **Effective Term:** Fall 2019
-- **E.** **Sponsoring Department:** Visual and Performing Arts
+- **C.** **Date of Proposal:**
+    - Semester: Fall  
+    - Year: 2025
+- **D.** **Effective Term:** Fall 2026
+- **E.** **Sponsoring Department:** Arts & Design
 - **F.** **Semester Credit Hours:** 3
 - **G.** **Weekly Contact Hours:**
     - Lecture: 2
     - Laboratory: 2
     - Out of class student work per week: 5
-- **H.** **Prerequisites/Corequisites:** None
-- **I.** **Laboratory Fees:** Yes
-- **J.** **Name and Telephone Number or E-Mail Address of Department Chair and Divisional Dean at time of approval:** John Sichel – john.sichel @raritanval.edu & Vandana Nadkarni
-– vandana.nadkarni@raritanval.edu, Patrice Marks- Patrice.marks@raritanval.edu
-Divisional Dean.
+- **H.** 
+    - [ ] **Prerequisite (s):**
+    - [ ] **Corequisite (s):** 
+    - [ ] **Prerequisite (s) and **Corequisite (s):**:**
+- **I.** **Laboratory Fees:** Yes.
+- **J.** **Name and Telephone Number or E-Mail Address of Department Chair and Divisional Dean at time of approval:**
+    - Patrice Marks (Dean) - patrice.marks@raritanval.edu
+    - Virginia Smith (Co-Chair) - virginia.smith@raritanval.edu
+    - Darren McManus (Co-Chair) - darren.mcmanus@raritanval.edu
 
 ## II. Catalog Description
 
 This course provides students the skills required to author standards based Web sites
 using the Hypertext Markup Language (HTML) and Cascading Style Sheets (CSS)
-specifications. HTML5 and CSS will be used to create effective Web pages accessible on
+specifications. HTML and CSS will be used to create effective Web pages accessible on
 a variety of computer platforms. Students will learn how to incorporate tables, forms,
 images, and video into Web pages and will be briefly introduced to responsive web page
 design.
@@ -45,20 +49,10 @@ first step any future Web developer must take in the journey to proficiency.
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** Free Elective
-- **B.** This course serves as a Computer Elective on the Computer and Programming
+- **A.** This course meets a program requirement for GRID.
+- **B.** Free Elective
+- **C.** This course serves as a Computer Elective on the Computer and Programming
 Electives List
-- **C.** This course meets a program requirement for
-    1. ~~Web Developer Certificate~~
-    2. Interactive Digital Media & Web Development AS Degree
-    3. Interactive Digital Media & Web Development AAS Degree
-    4. Interactive Digital Media & Web Development Certificate
-    5. Computer Support Certificate
-    6. ~~Computer Support Certificate of Completion~~
-    7. ~~Multimedia Communications AAS Degree~~
-    8. ~~Multimedia Communications Certificate~~
-    9. Information Systems and Technology AAS Degree
-    10. Information Systems and Technology AS Degree
 - **D.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
 ## V. Outline of Course Content
@@ -85,21 +79,15 @@ Electives List
 1. Tables
 1. Forms
 
-## VI. General Education and Course Learning Outcomes
+## VI.
 
-- **A.** **<u>General Education Learning Outcomes:</u>**
-
-    **At the completion of the course, students will be able to:**
-    1. Utilize standards to design and develop Web pages that reflect critical and creative thought. (GE-NJ 1,4)
-    2. Communicate and collaborate with others in the design and development of small   Web sites. (GE-NJ 1,4)
-    3. Utilize current Web authoring tools required to create effective standards based Web sites. (GE-NJ 1, 4)
-
-- **B.** **<u>Course Learning Outcomes:</u>**
+- **A.** **<u>Course Learning Outcomes:</u>**
 
     **At the completion of the course, students will be able to:**
-    1. Design and publish Web pages containing links, lists, tables, and multimedia.
-    2. Develop standards based Web pages using appropriate HTML and CSS syntax.
-    3. Separate style from content using CSS and HTML.
+    1. Design and publish modern webpages using modern web standards.
+    2. Communicate and collaborate with others in the design and development of small   Web sites.
+    3. Develop standards based Web pages using appropriate HTML and CSS syntax.
+    4. Separate style from content using CSS and HTML.
 
 - **B.** **<u>Assessment Instruments</u>**
     1. personal website
@@ -128,4 +116,10 @@ The modes, and methods for teaching and learning that may be used in the course:
 (Please Note: The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.)
 
 ## IX. Resources
-- **A.** Computer lab with Internet access, Notepad++ software and FTP software
+- **A.** Computer lab with Internet access.
+- **B.** Code repository, modern publishing tools, and relevant accounts.
+
+## X. Honors Options
+- [ ] Honors Course
+- [ ] Honors Option
+- [x] N/A

@@ -1,18 +1,16 @@
 # RARITAN VALLEY COMMUNITY COLLEGE ACADEMIC COURSE OUTLINE
 
-# ???? ARTS 106—Foundations of Game Engines
-
-# (NEEDS UPDATE!! This is the current outline, but in a modern template.)
+# GRID 150 - Game Engines
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** ARTS 106 – Foundations of Game Engines
+- **A.** **Course Number and Title:** GRID 150 - Game Engines
 - **B.** **New or Modified Course:** New
 - **C.** **Date of Proposal:**  
-    - Semester: Spring  
-    - Year: 2017
-- **D.** **Effective Term:** Fall 2017
-- **E.** **Sponsoring Department:** Visual and Performing Arts
+    - Semester: Fall  
+    - Year: 2025
+- **D.** **Effective Term:** Fall 2026
+- **E.** **Sponsoring Department:** Arts & Design
 - **F.** **Semester Credit Hours:** 3
 - **G.** **Weekly Contact Hours:** 4 
     - Lecture: 2
@@ -22,8 +20,11 @@
     - [ ] **Prerequisite (s):** 
     - [ ] **Corequisite (s):** 
     - [ ] **Prerequisite (s) and **Corequisite (s):**:**
-- **I.** **Additional Fees:** Yes
-- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** [Fill this in later]
+- **I.** **Additional Fees:** No
+- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** 
+    - Patrice Marks (Dean) - patrice.marks@raritanval.edu
+    - Virginia Smith (Co-Chair) - virginia.smith@raritanval.edu
+    - Darren McManus (Co-Chair) - darren.mcmanus@raritanval.edu
 
 ## II. Catalog Description
 
@@ -37,8 +38,8 @@ This course will introduce students to the art and programming aspects of develo
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** Free Elective
-- **B.** This Course meets a requirement for the A.S. Game Art degree.
+- **A.** This Course meets a requirement for GRID.
+- **B.** Free Elective
 - **C.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
 ## V. Outline of Course Content
@@ -83,22 +84,12 @@ This course will introduce students to the art and programming aspects of develo
 
 ## VI. 
 
-- **A.** 
+- **A.** **<u>Course Learning Outcomes:</u>**  
 
-**<u>General Education Learning Outcomes:</u>**  
-
-**At the completion of the course, students will be able to:**  
-1. Apply appropriate technological tools to design projects. (GE-NJ 4,6 *)
-2. Reference game art sources and their importance in the development of modern games and multimedia. (GE-NJ 1,6)
-3. Demonstrate the application of analysis and problem solving to achieve design solutions. (GE-NJ 4, *)
-    - *Embedded Critical Thinking
-
-**<u>Course Learning Outcomes:</u>**  
-
-**At the completion of the course, students will be able to:**  
-1. Produce professional quality assets for game and interactive media.
-2. Assess how these assets interface into a programming environment.
-3. Learn collaborative and team development skills.
+    **At the completion of the course, students will be able to:** 
+    1. Produce professional quality assets for game and interactive media.
+    2. Assess how these assets interface into a programming environment.
+    3. Learn collaborative and team development skills.
 
 - **B.** **<u>Assessment Instruments</u>**  
     1. laboratory products – (ie game design and components)
@@ -110,12 +101,10 @@ This course will introduce students to the art and programming aspects of develo
     7. computer programs
     8. presentations
     9. interviews (ie one on one or group discussions)
-
-- **B.** **<u>Assessment Instruments</u>**  
-    1. Sketching and planning
-    2. Digital 3D projects
-    3. Research papers and presentations
-    4. Exams
+    10. Sketching and planning
+    11. Digital 3D projects
+    12. Research papers and presentations
+    13. Exams
 
 ## VII. Grade Determinants
 
@@ -142,12 +131,14 @@ The modes and methods for teaching and learning that may be used in the course:
 - **F.** online learning resources (Lynda.com, etc…)
 
 ## IX. Resources
-- **A.** MAC and PC workstations
+- **A.** Modern computer workstations
 - **B.** Three dimensional game development software
 - **C.** Digital drawing tablets
-- **D.** Adobe creative cloud software
-- **E.** Unity game engine
+- **D.** Adobe creative cloud software or similar.
+- **E.** Unity game engine or similar.
 - **F.** Paper drawing tablet, pencils and other art supplies
+
+(Please Note: The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.)
 
 ## X. Honors Options
 - [ ] Honors Course

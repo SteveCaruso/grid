@@ -1,29 +1,30 @@
 # RARITAN VALLEY COMMUNITY COLLEGE ACADEMIC COURSE OUTLINE
 
-# ???? GDEV 106 – Fundamentals of Game Design
-
-# (NEEDS UPDATE!! This is the current outline, but in a modern template.)
+# GRID 120 – Game Design Theory
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** GDEV 106 – Fundamentals of Game Design
+- **A.** **Course Number and Title:** GRID 120 – Game Design Theory
 - **B.** **New or Modified Course:** Modified
 - **C.** **Date of Proposal:**  
     - Semester: Fall  
-    - Year: 2018
-- **D.** **Effective Term:** Fall 2019
-- **E.** **Sponsoring Department:** Visual and Performing Arts
+    - Year: 2025
+- **D.** **Effective Term:** Fall 2026
+- **E.** **Sponsoring Department:** Arts & Design
 - **F.** **Semester Credit Hours:** 3
 - **G.** **Weekly Contact Hours:** 4 
     - Lecture: 2
     - Laboratory: 2  
     - Out of class student work per week: 5
 - **H.** 
-    - [ ] **Prerequisite (s):** 
+    - [ ] **Prerequisite (s):**
     - [ ] **Corequisite (s):** 
     - [ ] **Prerequisite (s) and **Corequisite (s):**:**
-- **I.** **Additional Fees:** Yes
-- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** [Fill this in later]
+- **I.** **Additional Fees:** No.
+- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** 
+    - Patrice Marks (Dean) - patrice.marks@raritanval.edu
+    - Virginia Smith (Co-Chair) - virginia.smith@raritanval.edu
+    - Darren McManus (Co-Chair) - darren.mcmanus@raritanval.edu
 
 ## II. Catalog Description
 
@@ -37,16 +38,11 @@ This course introduces the creative process of game design and development for s
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** Free Elective
-- **B.** This course meets a program requirement for
-    1. Game Development A.A.S. Degree
-- **C.** This course is an option in:
-    1. Interactive Digital Media & Web Development AS
-    2. Interactive Digital Media & Web Development AAS
-    3. Interactive Digital Media & Web Development Certificate
-- **D.** This course serves as a Computer Elective on the Computer and Programming
+- **A.** This course meets a program requirement for GRID.
+- **B.** Free Elective
+- **C.** This course serves as a Computer Elective on the Computer and Programming
 Electives List
-- **E.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
+- **D.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
 ## V. Outline of Course Content
 
@@ -106,16 +102,7 @@ Electives List
 
 ## VI. 
 
-- **A.** 
-
-**<u>General Education Learning Outcomes:</u>**  
-
-**At the completion of the course, students will be able to:**  
-1. Produce a written process log of their game production project (GE-NJ 1, 4)
-2. Analyze and critique analog and digital games (GE-NJ 4, *)
-    * *Embedded critical thinking
-
-**<u>Course Learning Outcomes:</u>**  
+- **A.** **<u>Course Learning Outcomes:</u>**  
 
 **At the completion of the course, students will be able to:**  
 1. Identify and explain the market forces, platforms, genres, and careers in the game
@@ -124,6 +111,7 @@ industry
 iterative, play-centric design process
 3. Create a preliminary design plan to implement the analog game as a digital game
 4. Explain and defend their system design to game industry professionals
+5. Analyze and critique analog and digital games.
 
 - **B.** **<u>Assessment Instruments</u>**  
     1. laboratory products – (ie game design and components)
@@ -135,12 +123,10 @@ iterative, play-centric design process
     7. computer programs
     8. presentations
     9. interviews (ie one on one or group discussions)
-
-- **B.** **<u>Assessment Instruments</u>**  
-    1. Programming projects (required)
-    2. exams
-    3. Weekly homework
-    4. presentations 
+    10. Programming projects (required)
+    11. exams
+    12. Weekly homework
+    13. presentations 
 
 ## VII. Grade Determinants
 
@@ -209,6 +195,8 @@ playtesting
 - **H.** Video game consoles and software collection
 - **I.** Hand held game consoles and software collection
 - **J.** Subscription to Steam software portal for college
+
+(Please Note: The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.)
 
 ## X. Honors Options
 - [ ] Honors Course

@@ -1,33 +1,34 @@
 # RARITAN VALLEY COMMUNITY COLLEGE ACADEMIC COURSE OUTLINE
 
-# (NEEDS UPDATE!! This is the current outline.)
-
-# IDMX 208 – Interface Design & Human Computer Interaction
+# GRID 160 - User Experience Design
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** IDMX208 Interface Design & Human Computer Interaction
+- **A.** **Course Number and Title:** GRID 160 - User Experience Design
 - **B.** **New or Modified Course:** Modified
 - **C.** **Date of Proposal:** 
-    - Semester: Spring  
-    - Year: 2018
-- **D.** **Effective Term:** Fall 2019
-- **E.** **Sponsoring Department:** Visual and Performing Arts (VAPA)
+    - Semester: Fall  
+    - Year: 2025
+- **D.** **Effective Term:** Fall 2026
+- **E.** **Sponsoring Department:** Arts & Design
 - **F.** **Semester Credit Hours:** 3
 - **G.** **Weekly Contact Hours:** 4
     - Lecture: 2
     - Laboratory: 2
     - Out of class student work per week: 5
-- **H.** **Prerequisites/Corequisites:** **Prerequisite:** A grade of C or higher in
-IDMX114 Interactive Multimedia
-- **I.** **Laboratory Fees:** Yes, at current rate.
-- **J.** **Name and Telephone Number or E-Mail Address of Department Chair and Divisional Dean at time of approval:** John Sichel – john.sichel @raritanval.edu & Vandana Nadkarni
-– vandana.nadkarni@raritanval.edu, Patrice Marks- Patrice.marks@raritanval.edu
-Divisional Dean.
+- **H.** 
+    - [ ] **Prerequisite (s):** Grade of C or higher in GRID 111 - Creative Computing I
+    - [ ] **Corequisite (s):** 
+    - [ ] **Prerequisite (s) and **Corequisite (s):**:**
+- **I.** **Laboratory Fees:** No.
+- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** 
+    - Patrice Marks (Dean) - patrice.marks@raritanval.edu
+    - Virginia Smith (Co-Chair) - virginia.smith@raritanval.edu
+    - Darren McManus (Co-Chair) - darren.mcmanus@raritanval.edu
 
 ## II. Catalog Description
 
-**Prerequisites: A grade of C or higher in IDMX114 – Interactive Multimedia;** This course equips students to understand the theory behind and develop practical experience in implementing user interfaces for electronic, multimedia-driven devices.
+**Prerequisites: A grade of C or higher in GRID 111 - Creative Computing I;** This course equips students to understand the theory behind and develop practical experience in implementing user interfaces for electronic, multimedia-driven devices.
 
 ## III. Statement of Course Need
 
@@ -98,15 +99,9 @@ Divisional Dean.
         3. Maintenance
         4. Iterative updates
 
-## VI. General Education and Course Learning Outcomes
+## VI.
 
-- **A.** **<u>General Education Learning Outcomes:</u>**
-
-    **At the completion of the course, students will be able to:**
-    1. Apply creativity to problem solving; decision making; and quantitative reasoning (GE-NJ2)
-    2. Build communication skills (effective writing and speaking) through collaborative learning, utilizing team projects and multi-tasking. (GE-NJ1)
-
-- **B.** **<u>Course Learning Outcomes:</u>**
+- **A.** **<u>Course Learning Outcomes:</u>**
 
     **At the completion of the course, students will be able to:**
     1. Understand UI, and UX theories;
@@ -154,8 +149,6 @@ The modes, and methods for teaching and learning that may be used in the course:
     - “About Face: The Essentials of Interaction Design” by Alan Cooper et al. (latest edition)
 - **B.** Open Educational Resources (OER)
 
-(Please Note: The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.)
-
 ## IX. Resources
 - **A.** Computer lab with overhead projection
 - **A.** Modern web browser software (Chrome)
@@ -164,5 +157,6 @@ The modes, and methods for teaching and learning that may be used in the course:
 - **A.** Unity or other engine determined by the professor
 
 ## X. Honors Options
-
-N/A
+- [ ] Honors Course
+- [ ] Honors Option
+- [x] N/A

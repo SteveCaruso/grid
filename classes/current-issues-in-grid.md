@@ -1,15 +1,15 @@
 # RARITAN VALLEY COMMUNITY COLLEGE ACADEMIC COURSE OUTLINE
 
-# ??? 1?? – Current Issues in GRID
+# GRID 210 – Current Issues in GRID
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** ??? 1?? Current Issues in GRID
+- **A.** **Course Number and Title:** GRID 210 Current Issues in GRID
 - **B.** **New or Modified Course:** New
 - **C.** **Date of Proposal:**  
     - Semester: Fall  
     - Year: 2025
-- **D.** **Effective Term:** Spring 2026
+- **D.** **Effective Term:** Fall 2026
 - **E.** **Sponsoring Department:** Arts & Design
 - **F.** **Semester Credit Hours:** 1
 - **G.** **Weekly Contact Hours:** 2  
@@ -21,7 +21,10 @@
     - [ ] **Corequisite (s):** 
     - [ ] **Prerequisite (s) and **Corequisite (s):**:**
 - **I.** **Additional Fees:** No.
-- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** [Fill this in later]
+- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** 
+    - Patrice Marks (Dean) - patrice.marks@raritanval.edu
+    - Virginia Smith (Co-Chair) - virginia.smith@raritanval.edu
+    - Darren McManus (Co-Chair) - darren.mcmanus@raritanval.edu
 
 ## II. Catalog Description
 
@@ -114,7 +117,10 @@ The modes and methods for teaching and learning that may be used in the course:
 ## IX. Resources
 - **A.** Computer lab with internet and software access
 
-## X. Honors Options
+(Please Note: The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.)
 
-N/A
+## X. Honors Options
+- [ ] Honors Course
+- [ ] Honors Option
+- [x] N/A
 

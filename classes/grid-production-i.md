@@ -1,13 +1,13 @@
 # RARITAN VALLEY COMMUNITY COLLEGE ACADEMIC COURSE OUTLINE
 
-# GRID 290 – GRID Production I
+# GRID 201 – GRID Production I
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** GRID 290 – GRID Production I
+- **A.** **Course Number and Title:** GRID 201 – GRID Production I
 - **B.** **New or Modified Course:** New
 - **C.** **Date of Proposal:**  
-    - Semester: Spring  
+    - Semester: Fall  
     - Year: 2025
 - **D.** **Effective Term:** Fall 2026
 - **E.** **Sponsoring Department:** Arts & Design
@@ -17,11 +17,14 @@
     - Laboratory: 2  
     - Out of class student work per week: 5
 - **H.** 
-    - [x] **Prerequisite (s):** ???? 2?? – Creative Computing II 
+    - [x] **Prerequisite (s):** A grade of C or higher in GRID 112 - Creative Computing II. 
     - [ ] **Corequisite (s):** 
     - [ ] **Prerequisite (s) and **Corequisite (s):**:**
 - **I.** **Additional Fees:** Yes
-- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** [Fill this in later]
+- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** 
+    - Patrice Marks (Dean) - patrice.marks@raritanval.edu
+    - Virginia Smith (Co-Chair) - virginia.smith@raritanval.edu
+    - Darren McManus (Co-Chair) - darren.mcmanus@raritanval.edu
 
 ## II. Catalog Description
 
@@ -114,6 +117,8 @@ The modes and methods for teaching and learning that may be used in the course:
 ## IX. Resources
 - **A.** Computer Lab for classroom instruction and exercises
 - **B.** Technology Support (Javascript enabled web browser installed on the workstations in the Computer Lab, Processing development environment (PDE) and Java SDK.
+
+(Please Note: The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.)
 
 ## X. Honors Options
 - [ ] Honors Course

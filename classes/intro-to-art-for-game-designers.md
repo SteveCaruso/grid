@@ -1,15 +1,15 @@
 # RARITAN VALLEY COMMUNITY COLLEGE ACADEMIC COURSE OUTLINE
 
-# XXXX XXX – Intro to Art for Game Designers
+# GRID 140 - Intro to Art For Game Designers
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** ???? ??? Intro to Art for Game Designers
+- **A.** **Course Number and Title:** GRID 140 - Intro to Art For Game Designers
 - **B.** **New or Modified Course:** New
 - **C.** **Date of Proposal:**  
     - Semester: Fall  
-    - Year: 2024
-- **D.** **Effective Term:** Fall 2025
+    - Year: 2025
+- **D.** **Effective Term:** Fall 2026
 - **E.** **Sponsoring Department:** Arts & Design
 - **F.** **Semester Credit Hours:** 3
 - **G.** **Weekly Contact Hours:** 4
@@ -21,7 +21,10 @@
     - [ ] **Corequisite (s):**
     - [ ] **Prerequisite (s) and Corequisite (s):**
 - **I.** **Additional Fees:** Yes
-- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** [Fill this in later]
+- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** 
+    - Patrice Marks (Dean) - patrice.marks@raritanval.edu
+    - Virginia Smith (Co-Chair) - virginia.smith@raritanval.edu
+    - Darren McManus (Co-Chair) - darren.mcmanus@raritanval.edu
 
 ## II. Catalog Description
 
@@ -37,7 +40,7 @@ This is a course that focuses on the basics that game design students need to cr
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** This course meets a program requirement for IDEA.
+- **A.** This course meets a program requirement for GRID.
 - **B.** Free Elective
 - **C.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
