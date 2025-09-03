@@ -17,7 +17,7 @@
     - Laboratory: 2
     - Out of class student work per week: 5
 - **H.** 
-    - [x] **Prerequisite (s):** A grade of C or higher in Game Development Fundamentals
+    - [x] **Prerequisite (s):** A grade of C or higher in GRID 120 - Game Design Theory
     - [ ] **Corequisite (s):** 
     - [ ] **Prerequisite (s) and **Corequisite (s):**:**
 - **I.** **Additional Fees:** No.
@@ -28,7 +28,7 @@
 
 ## II. Catalog Description
 
-**Prerequisites: A grade of C or higher in Game Development Fundamentals** This course explores the entrepreneurial aspects of the game industry, guiding students through the process of turning a game concept into a viable business. Topics include market research, business planning, funding, intellectual property, production pipelines, marketing, and distribution strategies.
+**Prerequisites: A grade of C or higher in GRID 120 - Game Design Theory** This course explores the entrepreneurial aspects of the game industry, guiding students through the process of turning a game concept into a viable business. Topics include market research, business planning, funding, intellectual property, production pipelines, marketing, and distribution strategies.
 
 ## III. Statement of Course Need
 
