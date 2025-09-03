@@ -5,8 +5,8 @@
 
 ### Game Development & Game Art
 - **DELETE**
-    - GDEV267 Programming for Game Developers
-    - GDEV290 Advanced Game Design and Development
+    - GDEV267 Programming for Game Developers → *Merged into GRID 201*
+    - GDEV290 Advanced Game Design and Development → *Merged into GRID 202*
     - ARTS209 Two-Dimensional Game Design Studio
 - **REVISED**
     - GDEV106 Fundamentals of Game Design
@@ -22,12 +22,12 @@
 
 ### IDMX
 - **DELETE**
-    - IDMX114 Interactive Multimedia
+    - IDMX114 Interactive Multimedia → *Merged into GRID 111*
     - IDMX222 Content Management Systems
     - IDMX232 Internet & Web Architecture
     - IDMX233 Introduction to PHP
-    - IDMX291 User Interface Programming
-    - IDMX297​ Interface Design Capstone​
+    - IDMX291 User Interface Programming → *Merged into GRID 201*
+    - IDMX297​ Interface Design Capstone​ → *Merged into GRID 202*
 - **REVISED**
     - IDMX208 Interface Design & Human Computer Interaction​​
         - → GRID 160 - User Experience Design
