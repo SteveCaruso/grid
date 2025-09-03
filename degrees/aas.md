@@ -17,7 +17,7 @@ Students must choose 3 courses from the GRID Electives List. Suggested Tracks of
 ## Semester 1 (*16 credits*)
 * [GRID 100 - Intro to GRID](../classes/intro-to-grid.md) (1 credit) — **NEW**
 * [GRID 111 - Creative Computing I](../classes/creative-computing-i.md) (3 credits, CompLit) — **NEW**
-* [GRID 120 - Game Design Theory](../classes/game-design-theory.md) (3 credits) **REVISED GDEV 106**
+* [GRID 120 - Game Design Theory](../classes/game-design-theory.md) (3 credits) — **REVISED GDEV 106**
 * [GRID 130 - Web Page Development I](../classes/web-page-development-i.md) (3 credits)
 * [GRID 140 - Intro to Art For Game Designers](../classes/intro-to-art-for-game-designers.md) (3 credits) — **NEW**
 * ENGL 111 - English Composition I (3 credits, GE)
