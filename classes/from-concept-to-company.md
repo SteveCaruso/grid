@@ -1,15 +1,15 @@
 # RARITAN VALLEY COMMUNITY COLLEGE ACADEMIC COURSE OUTLINE
 
-# ???? 2?? – From Concept to Company
+# GRID 240 - From Concept to Company
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** ???? 2?? From Concept to Company
+- **A.** **Course Number and Title:** GRID 240 - From Concept to Company
 - **B.** **New or Modified Course:** New
 - **C.** **Date of Proposal:**
     - Semester: Fall  
     - Year: 2025
-- **D.** **Effective Term:** Spring 2026
+- **D.** **Effective Term:** Fall 2026
 - **E.** **Sponsoring Department:** Arts & Design
 - **F.** **Semester Credit Hours:** 3
 - **G.** **Weekly Contact Hours:** 4
@@ -142,6 +142,8 @@ The modes and methods for teaching and learning that may be used in the course:
 (Please Note: The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.)
 
 ## X. Honors Options
+- [ ] Honors Course
+- [ ] Honors Option
+- [x] N/A
 
-N/A
 
