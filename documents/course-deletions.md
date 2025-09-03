@@ -5,7 +5,6 @@
 
 ### Game Development & Game Art
 - **DELETE**
-    - GDEV242 Object Oriented Programming
     - GDEV267 Programming for Game Developers
     - GDEV290 Advanced Game Design and Development
     - ARTS209 Two-Dimensional Game Design Studio
@@ -18,6 +17,8 @@
         - → GRID 221 - Narrative & World-building
     - ARTS277 Game Audio and Video
         - → GRID 220 - Interactive Audio & Video Design
+    - GDEV242 Object Oriented Programming
+        - → Give to CSIT
 
 ### IDMX
 - **DELETE**
@@ -25,8 +26,8 @@
     - IDMX222 Content Management Systems
     - IDMX232 Internet & Web Architecture
     - IDMX233 Introduction to PHP
-    - IDMX297​ Interface Design Capstone​
     - IDMX291 User Interface Programming
+    - IDMX297​ Interface Design Capstone​
 - **REVISED**
     - IDMX208 Interface Design & Human Computer Interaction​​
         - → GRID 160 - User Experience Design

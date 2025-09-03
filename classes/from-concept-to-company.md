@@ -38,7 +38,7 @@
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** This course meets a program requirement for PROGRAM.
+- **A.** This course meets a program requirement for GRID.
 - **B.** Free Elective
 - **C.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
