@@ -9,13 +9,13 @@
     - GDEV290 Advanced Game Design and Development → *Merged into GRID 202*
     - ARTS209 Two-Dimensional Game Design Studio
 - **REVISED**
-    - GDEV106 Fundamentals of Game Design
+    - GDEV106 Fundamentals of Game Design - **Name Change**
         - → GRID 120 - Game Design Theory
-    - ARTS106 Foundations of Game Engines​
+    - ARTS106 Foundations of Game Engines​ - **Name Change**
         - → GRID 150 - Game Engines
-    - ARTS259 Game Narrative and Concepts
+    - ARTS259 Game Narrative and Concepts - **Name Change**
         - → GRID 221 - Narrative & World-building
-    - ARTS277 Game Audio and Video
+    - ARTS277 Game Audio and Video - **Name Change**
         - → GRID 220 - Interactive Audio & Video Design
     - GDEV242 Object Oriented Programming
         - → Give to CSIT
@@ -29,7 +29,7 @@
     - IDMX291 User Interface Programming → *Merged into GRID 201*
     - IDMX297​ Interface Design Capstone​ → *Merged into GRID 202*
 - **REVISED**
-    - IDMX208 Interface Design & Human Computer Interaction​​
+    - IDMX208 Interface Design & Human Computer Interaction​​ - **Name Change**
         - → GRID 160 - User Experience Design
     - IDMX225 Web Page Development I
         - → GRID 130 - Web Page Development I
