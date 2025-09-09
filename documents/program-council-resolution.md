@@ -2,7 +2,7 @@
 
 ## Q: How are courses from the existing degrees fit into the new program?
 
-A letter was sent out a few weeks ago to each student in the current program pool (GDEV, GART, & IDMX) that had a teach out table for course equivalencies. For example, [this was IDMX's table](/documents/IDMX%20Teach%20Out.md).
+A letter was sent out a few weeks ago to each student in the current program pool (GDEV, GART, & IDMX) that had a teach out table for course equivalencies. For example, [this was IDMX's table](/documents/IDMX%20Teach%20Out.md) and it was represented [in the letter this way](/documents/IDMX%20Teach%20Out%20Packet.docx).
 
 # Q: How will we represent the proposed Pathways in the catalog entry?
 
