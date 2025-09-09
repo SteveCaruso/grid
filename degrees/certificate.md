@@ -14,7 +14,7 @@ Graduates are able to:
 
 **NOTE: The course outlines linked here are in their current or originally proposed form and things have been moved around since. As a result, titles and numbers may be different, but all of them will be harmonized before the formal proposal is made.**
 
-## Semester 1 (*16 credits*)
+## Semester 1 (*15 credits*)
 * [GRID 111 - Creative Computing I](../classes/creative-computing-i.md) (3 credits, CompLit) — **NEW**
 * [GRID 120 - Game Design Theory](../classes/game-design-theory.md) (3 credits) — **REVISED GDEV 106**
 * [GRID 130 - Web Page Development I](../classes/web-page-development-i.md) (3 credits)
