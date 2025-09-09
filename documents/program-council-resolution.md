@@ -12,12 +12,14 @@ I am a fan of how Biological Sciences did this, but their approach is much more 
 
 ## Q: What is the impact of the elimination of more-transferrable AS degrees?
 
-We are already set to begin the process of building an articulation agreement with the Computer Science Department at Butler University (which is where our intended Consultant is from; he was immediately impressed with the offerings and wants to proceed straight away). We have several others presently in the preliminary stages.
+We are already set to begin the process of building an articulation agreement with the Computer Science Department at Butler University (which is where our intended Consultant is from; he was immediately impressed with the offerings and wants to proceed). We have several others presently in the preliminary stages of probing interest.
 
-We *do* want to offer an AS degree, but we feel that we may need a year or two to feel the AAS out first and see where appropriate cuts can be made to have the AS have the same academic vigor as the AAS. The sheer number of GenEd requirements are tough for such an interdiciplinary degree.
+We *do* want to offer an AS degree, but we feel that we may need a year or two to feel the AAS out first and see where appropriate cuts can be made to have the AS have the same academic vigor as the AAS. 
+
+The sheer number of GenEd requirements continue to be tough for such an interdiciplinary degree as an AS.
 
 ## Q: What is the impact of the elimination of the only certificate option for this set of disciplines?
 
-The IDMX Certificate was always very low enrollment, a typical Academic year only having 1 or 2 students in it actively. Where we would be willing to consider a Certificate in the future, it was not a high priority. 
+The IDMX Certificate was always very low enrollment, a typical Academic year only having a handfull of students in it actively. Building a Certificate was not a high priority. 
 
 However, the first two semesters of the AAS can be re-arranged into a ["Creative Computing" Certificate](/degrees/certificate.md) with very little alteration and meet all Certificate requirements (assuming that Creative Computing I gets CompLit status).
