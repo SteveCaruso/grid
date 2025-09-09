@@ -29,22 +29,3 @@ Graduates are able to:
 * Gen Ed Elective (3 credits, GE)
 
 **Total: 30 credits**
-
-
-# GRID Electives List
-
-* [GRID 220 - Interactive Audio & Video Design](../classes/interactive-audio-video-design.md) (3 credits) — **REVISED ARTS 277**
-* GRID 170 - Narrative & World-building (3 credits) — **REVISED ARTS 259**
-* GRID 230 - Web Page Development II
-* GRID 231 - JavaScript
-* [GRID 240 - From Concept to Company](../classes/from-concept-to-company.md) — **NEW**
-* GRID 250 - Gameplay Implementation — **NEW**
-    * A rotating set of 4-6 electives covering topics such as:
-        * Action
-        * Cozy
-        * RPG
-        * Racing
-        * Consoles
-* ARTS 113 - Audio Production
-* BUSI 111 - Introduction to Business
-* BUSI 153 - Small Business Managment
