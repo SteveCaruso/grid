@@ -1,4 +1,4 @@
-# GRID Creative Computing Certificate
+# GRID Creative Computing Certificate (ROUGH PROPOSAL)
 
 GRID (Game and Real-Time Interactive Design) is an interdisciplinary program designed to equip students with the creative and technical skills needed to excel in digital media, game development, and interactive computing. Blending design principles, programming, user experience, and rich media production, the program prepares students for careers in game design, web development, interactive storytelling, and emerging creative technologies. With hands-on projects, industry-standard tools, and a focus on innovation, students build a strong foundation in both artistic and technical aspects of interactive media.
 
