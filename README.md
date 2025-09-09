@@ -4,7 +4,7 @@
 A proposed merger of the Game Dev, Game Art, and IDMX Programs at RVCC:
 
 * **[Game & Real-Time Interactive Design (GRID) A.A.S. (Program Outline)](./degrees/aas.md)**
-    * **[Game & Real-Time Interactive Design (GRID) Creative Computing Certificate (Program Outline)](./degrees/certificate.md)**
+    * **[GRID Creative Computing Certificate (ROUGH DRAFT)](./degrees/certificate.md)**
 * **[Needs and Feasibility Assessment](./documents/needs-and-feasibility.md)**
 * **[New Courses Table](./documents/new-courses.md)**
 * **[Course Deletions & Revisions Table](./documents/course-deletions.md)**
