@@ -49,52 +49,45 @@
     - why prototype code creates long term challenges for implementation
     - Understanding fundmantal software design principles as applied to game development
       
-2. Event driving programming
-   
+2. Event driving game messages
+   - overview of different methods of decoupled communication
+   - Engine specific event syntax and implementation
+   - Language specific event syntax and implementation
 
-4. Game Play systems
+3. Game Play systems
     - Developing the core game loop for the genre in use (will vary by semeseter)
-    - creating hooks for 
-   
-    - Business models in game development (premium, freemium, subscriptions, etc.)
-    - Developing a Minimum Viable Product (MVP)
+    - creating event/messaging hooks for testing
+    - creating event/messaging hooks for other systems for later implementation
 
-6. Game Production and Pipeline Management
-    - Team roles and structuring a game studio
-    - Project management methodologies (Agile, Scrum, Waterfall)
-    - Budgeting and resource allocation
+4. Game Visual Effects systems
+     - Developing VFX options 
+     - creating event/messaging hooks for testing
+     - creating event/messaging hooks for other systems for later implementation
+  
+5. Game UI systems
+     - Developing UI systems including HUD, menus, transitions
+     - creating event/messaging hooks for testing
+     - creating event/messaging hooks for other systems for later implementation
+  
+6. Game Network systems
+     - Developing network client and server processes
+     - creating event/messaging hooks for testing
+     - creating event/messaging hooks for other systems for later implementation
 
-7. Intellectual Property and Legal Considerations
-    - Copyright, trademarks, and patents
-    - Contracts and collaboration agreements
-    - Ethical considerations in game development
+7. Systems integration and testing
+     - coordinating messaging between systems
+     - playtesting and debugging
+     - demonstrating the product
 
-8. Funding and Investment Strategies
-    - Bootstrapping vs. external funding
-    - Crowdfunding, venture capital, and grants
-    - Pitching to investors
 
-9. Marketing and Community Building
-    - Branding and establishing an identity
-    - Social media and influencer outreach
-    - Running successful game launch campaigns
 
-10. Distribution and Monetization
-    - Publishing options (self-publishing, working with a publisher, platforms)
-    - Revenue streams (DLC, ads, microtransactions, etc.)
-    - Post-launch support and live service models
-
-11. Scaling and Sustaining a Game Company
-    - Managing growth and scaling operations
-    - Risk management and contingency planning
-    - Evolving with industry trends
 
 ## VI. 
 
 - **A.** **<u>Course Learning Outcomes:</u>**
 
     **At the completion of the course, students will be able to:**
-    1. Develop a technical archite3cture for a game development project.
+    1. Develop a technical architecture for a game development project.
     2. Develop different game sub-systems that are able to communicate via events and messages.
     3. Develop and implement a test plan for individual game systems
     4. Apply project management skills to game production.
@@ -132,17 +125,17 @@ The modes and methods for teaching and learning that may be used in the course:
 ## VIII. Texts and Materials
 - **A.** Suggested textbooks:
     - [NOTE: We will need some more current titles, but these are the ones that came directly to mind:]
-    - "The Lean Startup" by Eric Ries
-    - "Press Reset: Ruin and Recovery in the Video Game Industry" by Jason Schreier
-    - "The Art of Game Design: A Book of Lenses" by Jesse Schell
-    - "Blood, Sweat, and Pixels" by Jason Schreier
+    - "Game Programming Patterns" by Robert Nystrom
+    - "Learning Design Patterns with Unity" by Harrison Ferrone
+    - "[Level Up Your Code with Game Programming Patterns](https://unity.com/resources/level-up-your-code-with-game-programming-patterns)" by Unity Press
+ 
 - **B.** Open Educational Resources (OER) and online business planning tools
 
 ## IX. Resources
 - **A.** Computer lab with overhead projection
 - **B.** Game development engines (Unity, etc.)
-- **C.** Business planning software
-- **D.** Marketing and analytics tools
+- **C.** Project management software
+- **D.** Online visual collaboration (Miro, LucidChart, etc.)
 
 (Please Note: The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.)
 
