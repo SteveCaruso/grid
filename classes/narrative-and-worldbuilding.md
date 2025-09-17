@@ -20,7 +20,7 @@
     - Out of class student work per week: 5
 - **H.** 
     - [ ] **Prerequisite (s):**
-    - [ ] **Corequisite (s):** ARTS106 Foundations of Game Engines or GDEV106 Fundamentals of Game Design
+    - [x] **Corequisite (s):** ARTS106 Foundations of Game Engines or GDEV106 Fundamentals of Game Design
 - **I.** **Additional Fees:** No.
 
 ## II. Catalog Description
@@ -79,18 +79,15 @@ corresponding programs.
 - **A.** **<u>General Learning Outomes:</u>**
 **At the completion of the course, students will be able to:** 
 1. Apply appropriate technological tools to design projects. (GE-NJ 4,6 *)
-2. Illustrate narrative design concepts from historical, cultural and social
-perspectives. (GE-NJ 1,6)
-3. Demonstrate the application of analysis and problem solving to achieve design
-solutions. (GE-NJ 4, *)  
+2. Illustrate narrative design concepts from historical, cultural and social perspectives. (GE-NJ 1,6)
+3. Demonstrate the application of analysis and problem solving to achieve design solutions. (GE-NJ 4, *)  
 
 *Embedded critical thinking
 
 - **B.** **<u>Course Learning Outcomes:</u>**  
 
 **At the completion of the course, students will be able to:**  
-1. Produce artwork and interactive computer art that demonstrates narrative and
-concept development.
+1. Produce artwork and interactive computer art that demonstrates narrative and concept development.
 2. Incorporate historical and source material in narrative development.
 3. Develop conceptually sophisticated game environments
 

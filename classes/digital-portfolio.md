@@ -15,7 +15,7 @@
 - **G.** **Weekly Contact Hours:** 2
     - Lecture: 1
     - Laboratory: 1
-    - Out of class student work per week: 2
+    - Out of class student work per week: 2.5
 - **H.** **Corequisites:** 
     - [ ] **Prerequisite (s):**
     - [ ] **Corequisite (s):**  GRID 202 - GRID Production II
