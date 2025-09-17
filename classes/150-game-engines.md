@@ -5,7 +5,7 @@
 ## I. Basic Course Information
 
 - **A.** **Course Number and Title:** GRID 150 - Game Engines
-- **B.** **New or Modified Course:** New
+- **B.** **New or Modified Course:** Modified
 - **C.** **Date of Proposal:**  
     - Semester: Fall  
     - Year: 2025
