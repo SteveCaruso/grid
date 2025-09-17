@@ -15,16 +15,16 @@ Graduates are able to:
 **NOTE: The course outlines linked here are in their current or originally proposed form and things have been moved around since. As a result, titles and numbers may be different, but all of them will be harmonized before the formal proposal is made.**
 
 ## Semester 1 (*15 credits*)
-* [GRID 111 - Creative Computing I](../classes/creative-computing-i.md) (3 credits, CompLit) — **NEW**
-* [GRID 120 - Game Design Theory](../classes/game-design-theory.md) (3 credits) — **REVISED GDEV 106**
-* [GRID 130 - Web Page Development I](../classes/web-page-development-i.md) (3 credits)
-* [GRID 140 - Intro to Art For Game Designers](../classes/intro-to-art-for-game-designers.md) (3 credits) — **NEW**
+* [GRID 111 - Creative Computing I](../classes/111-creative-computing-i.md) (3 credits, CompLit) — **NEW**
+* [GRID 120 - Game Design Theory](../classes/120-game-design-theory.md) (3 credits) — **REVISED GDEV 106**
+* [GRID 130 - Web Page Development I](../classes/130-web-page-development-i.md) (3 credits)
+* [GRID 140 - Intro to Art For Game Designers](../classes/140-intro-to-art-for-game-designers.md) (3 credits) — **NEW**
 * ENGL 111 - English Composition I (3 credits, GE)
 
 ## Semester 2 (*15 credits*)
-* [GRID 112 - Creative Computing II](../classes/creative-computing-ii.md) (3 credits) — **NEW**
-* [GRID 150 - Game Engines](../classes/game-engines.md) (3 credits) — **REVISED ARTS 106**
-* [GRID 160 - User Experience Design](../classes/user-experience-design.md) (3 credits) — **REVISED IDMX 208**
+* [GRID 112 - Creative Computing II](../classes/112-creative-computing-ii.md) (3 credits) — **NEW**
+* [GRID 150 - Game Engines](../classes/150-game-engines.md) (3 credits) — **REVISED ARTS 106**
+* [GRID 160 - User Experience Design](../classes/160-user-experience-design.md) (3 credits) — **REVISED IDMX 208**
 * Math Requirement (3 credits, GE)
 * Gen Ed Elective (3 credits, GE)
 
