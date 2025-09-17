@@ -1,7 +1,5 @@
 # RARITAN VALLEY COMMUNITY COLLEGE ACADEMIC COURSE OUTLINE
 
-# ((THIS IS A CONCEPT COURSE OUTLINE))
-
 # GRID 112 – Creative Computing II
 
 ## I. Basic Course Information
@@ -10,8 +8,8 @@
 - **B.** **New or Modified Course:** New
 - **C.** **Date of Proposal:**  
     - Semester: Fall  
-    - Year: 2024
-- **D.** **Effective Term:** Fall 2025
+    - Year: 2025
+- **D.** **Effective Term:** Fall 2026
 - **E.** **Sponsoring Department:** Arts & Design
 - **F.** **Semester Credit Hours:** 3
 - **G.** **Weekly Contact Hours:** 4
@@ -21,12 +19,7 @@
 - **H.**  
     - [x] **Prerequisite (s):** A grade of C or higher in GRID 110 Creative Computing I
     - [ ] **Corequisite (s):**
-    - [ ] **Prerequisite (s) and Corequisite (s):**
 - **I.** **Additional Fees:** Yes
-- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** 
-    - Patrice Marks (Dean) - patrice.marks@raritanval.edu
-    - Virginia Smith (Co-Chair) - virginia.smith@raritanval.edu
-    - Darren McManus (Co-Chair) - darren.mcmanus@raritanval.edu
 
 ## II. Catalog Description
 
@@ -46,7 +39,7 @@ By the end of the course, students will have developed a collection of advanced 
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** This course meets a program requirement for PROGRAM.
+- **A.** This course meets a program requirement for GRID.
 - **B.** Free Elective
 - **C.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
@@ -126,8 +119,7 @@ The modes and methods for teaching and learning that may be used in the course:
 1. Student collaboration
 
 ## VIII. Texts and Materials
-- **A.** Suggested readings and online resources:
-    - [TBD]
+- **A.** Suggested readings and online resources
 - **B.** Primary sources
 - **C.** Student sample code
 - **D.** Web sources – Processing and p5.js documentation
@@ -140,6 +132,4 @@ The modes and methods for teaching and learning that may be used in the course:
 
 ## X. Honors Options
 - [ ] Honors Course
-- [ ] Honors Option
 - [x] N/A
-

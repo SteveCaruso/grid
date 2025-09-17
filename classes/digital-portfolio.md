@@ -18,13 +18,8 @@
     - Out of class student work per week: 2
 - **H.** **Corequisites:** 
     - [ ] **Prerequisite (s):**
-    - [ ] **Corequisite (s):**  
-    - [x] **Prerequisite (s) and **Corequisite (s):**:** GRID 202 - GRID Production II
+    - [ ] **Corequisite (s):**  GRID 202 - GRID Production II
 - **I.** **Additional Fees:** No.
-- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** 
-    - Patrice Marks (Dean) - patrice.marks@raritanval.edu
-    - Virginia Smith (Co-Chair) - virginia.smith@raritanval.edu
-    - Darren McManus (Co-Chair) - darren.mcmanus@raritanval.edu
 
 ## II. Catalog Description
 
@@ -112,5 +107,4 @@ The modes, and methods for teaching and learning that may be used in the course:
 
 ## X. Honors Options
 - [ ] Honors Course
-- [ ] Honors Option
 - [x] N/A

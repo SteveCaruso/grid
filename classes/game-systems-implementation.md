@@ -19,12 +19,7 @@
 - **H.** 
     - [x] **Prerequisite (s):** A grade of C or higher in GRID 112 - Creative Computing 2
     - [ ] **Corequisite (s):** 
-    - [ ] **Prerequisite (s) and **Corequisite (s):**:**
 - **I.** **Additional Fees:** No.
-- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** 
-    - Patrice Marks (Dean) - patrice.marks@raritanval.edu
-    - Virginia Smith (Co-Chair) - virginia.smith@raritanval.edu
-    - Darren McManus (Co-Chair) - darren.mcmanus@raritanval.edu
 
 ## II. Catalog Description
 
@@ -79,9 +74,6 @@
      - playtesting and debugging
      - demonstrating the product
 
-
-
-
 ## VI. 
 
 - **A.** **<u>Course Learning Outcomes:</u>**
@@ -124,7 +116,6 @@ The modes and methods for teaching and learning that may be used in the course:
 
 ## VIII. Texts and Materials
 - **A.** Suggested textbooks:
-    - [NOTE: We will need some more current titles, but these are the ones that came directly to mind:]
     - "Game Programming Patterns" by Robert Nystrom
     - "Learning Design Patterns with Unity" by Harrison Ferrone
     - "[Level Up Your Code with Game Programming Patterns](https://unity.com/resources/level-up-your-code-with-game-programming-patterns)" by Unity Press
@@ -141,5 +132,4 @@ The modes and methods for teaching and learning that may be used in the course:
 
 ## X. Honors Options
 - [ ] Honors Course
-- [ ] Honors Option
 - [x] N/A

@@ -1,10 +1,10 @@
 # RARITAN VALLEY COMMUNITY COLLEGE ACADEMIC COURSE OUTLINE
 
-# GRID 130 - Web Page Development I
+# GRID 230 - Web Page Development II
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** : GRID 130 - Web Page Development I
+- **A.** **Course Number and Title:** : GRID 230 - Web Page Development II
 - **B.** **New or Modified Course:** Modified
 - **C.** **Date of Proposal:**
     - Semester: Fall  
@@ -17,30 +17,27 @@
     - Laboratory: 2
     - Out of class student work per week: 5
 - **H.** 
-    - [ ] **Prerequisite (s):**
+    - [x] **Prerequisite (s):** A grade of C or better in GRID 130 - Web Page Development I
     - [ ] **Corequisite (s):** 
 - **I.** **Laboratory Fees:** Yes.
 
 ## II. Catalog Description
 
-This course provides students the skills required to author standards based Web sites
-using the Hypertext Markup Language (HTML) and Cascading Style Sheets (CSS)
-specifications. HTML and CSS will be used to create effective Web pages accessible on
-a variety of computer platforms. Students will learn how to incorporate tables, forms,
-images, and video into Web pages and will be briefly introduced to responsive web page
-design.
+**Prerequisite: A grade of C or better in GRID 130 - Web Page Development I** — This course builds upon the concepts taught in Web Page Development 1 by utilizing advanced Cascading Style Sheets (CSS) techniques to teach students how to create complex page layouts for a variety of media and devices. Students will create dynamic and responsive Web pages using the latest web dev technologies, including JavaScript and server-side coding as well.
 
 ## III. Statement of Course Need
 
 - **A.** As businesses continue to incorporate Web based strategies in order to remain
 competitive in today’s online world, the demand for Web site professionals remains
-strong. In the early days of Web development, a rudimentary knowledge of HTML
-was all that was required in order to become a successful Web page developer.
-Today, professionals need to be familiar with HTML, CSS, Responsive Design,
-JavaScript, database programming, server side programming, etc. This course is the
-first step any future Web developer must take in the journey to proficiency.
-- **B.** Lab time is required in this course in order to allow students to complete the class project, an iterative Website incorporating all of the key concepts covered in the course lecture.
-- **C.** This course generally transfers as a Web Development program requirement
+strong. In the twentieth century, a rudimentary knowledge of HTML was all that was
+required in order to become a successful Web page developer. Today, professionals
+need to be familiar with HTML, CSS, JavaScript, database programming, server
+side programming, etc. This course is the second step (after Web Page Development
+I) that any future Web developer must take in the journey to proficiency.
+- **B.** Lab time is required in this course. Internet Accessible computers with multiple web
+browsers, ftp, and web authoring software are needed for students to develop and
+publish web pages.
+- **C.** This course generally transfers as a Web Development or Computer Science requirement or elective.
 
 ## IV. Place of Course in College Curriculum
 
@@ -52,27 +49,11 @@ Electives List
 
 ## V. Outline of Course Content
 
-1. HTML Basics
-1. Introduction to Cascading Style Sheets
-    1. Inline Styles
-    2. Embedded Styles
-    3. External Styles
+1. Advanced HTML
+1. Advanced Cascading Style Sheets (CSS)
 1. Visual Elements and Graphics
-    1. Background Images
-    2. CSS Visual Effect
-1. Web Design Fundamentals
-    1. Universal Design
-    2. Color
-    3. Principles of Visual Design
-    4. Use of Graphics and Multimedia
 1. Page Layout
-    1. The Box Model
-    2. CSS Positioning
-1. Links, Layout, and Mobile
-    1. CSS Styling for Print
-    2. Responsive Design
-1. Tables
-1. Forms
+1. NPM
 
 ## VI.
 
@@ -80,9 +61,10 @@ Electives List
 
     **At the completion of the course, students will be able to:**
     1. Design and publish modern webpages using modern web standards.
-    2. Communicate and collaborate with others in the design and development of small   Web sites.
-    3. Develop standards based Web pages using appropriate HTML and CSS syntax.
-    4. Separate style from content using CSS and HTML.
+    1. Work collaboratively in a group to design and publish Web pages using advanced CSS that are responsive based on screen size.
+    1. Create dynamic Web pages using client side scripting
+    1. Present their design of a small Web site and the implementation of their design to the class
+    1. Incorporate third party libraries.
 
 - **B.** **<u>Assessment Instruments</u>**
     1. personal website
@@ -103,9 +85,14 @@ The modes, and methods for teaching and learning that may be used in the course:
 1. student collaboration
 
 ## VIII. Texts and Materials
-- **A.** suggested textbook:
-    - Web Development and Design Foundations with HTML5, (Latest Edition)
-    - Terry Felke Morris
+
+With the constant update schedule, this class is best taught with Open Educationa 
+Resources and with the official specifications outlined on the following webpages:
+
+- The TC39 group (JavaScript’s standards-developing body):
+    - https://tc39.es/
+- The Mozilla Foundation’s Reference:
+    - https://developer.mozilla.org/en-US/docs/Web/
 
 (Please Note: The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.)
 

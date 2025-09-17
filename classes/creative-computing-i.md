@@ -8,8 +8,8 @@
 - **B.** **New or Modified Course:** New
 - **C.** **Date of Proposal:**  
     - Semester: Fall  
-    - Year: 2024
-- **D.** **Effective Term:** Fall 2025
+    - Year: 2025
+- **D.** **Effective Term:** Fall 2026
 - **E.** **Sponsoring Department:** Arts & Design
 - **F.** **Semester Credit Hours:** 3
 - **G.** **Weekly Contact Hours:** 4 
@@ -18,13 +18,8 @@
     - Out of class student work per week: 5
 - **H.** 
     - [ ] **Prerequisite (s):** 
-    - [x] **Corequisite (s):** GRID 1XX Introduction to Game Development
-    - [ ] **Prerequisite (s) and **Corequisite (s):**:**
+    - [ ] **Corequisite (s):** 
 - **I.** **Additional Fees:** Yes
-- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** 
-    - Patrice Marks (Dean) - patrice.marks@raritanval.edu
-    - Virginia Smith (Co-Chair) - virginia.smith@raritanval.edu
-    - Darren McManus (Co-Chair) - darren.mcmanus@raritanval.edu
 
 ## II. Catalog Description
 
@@ -44,7 +39,7 @@ Throughout this course, students will explore key topics relevant to game develo
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** This course meets a program requirement for PROGRAM.
+- **A.** This course meets a program requirement for GRID.
 - **B.** This is a General Education Elective course that satisfies Technological Competency (pending approval)
 - **C.** Free Elective
 - **D.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
@@ -120,7 +115,7 @@ Throughout this course, students will explore key topics relevant to game develo
 
 ## VII. Grade Determinants
 
-1. Programming projects (required)
+1. Programming projects
 1. exams
 1. Weekly homework
 1. presentations
@@ -150,6 +145,4 @@ The modes and methods for teaching and learning that may be used in the course:
 
 ## X. Honors Options
 - [ ] Honors Course
-- [ ] Honors Option
 - [x] N/A
-

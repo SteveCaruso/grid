@@ -19,12 +19,7 @@
 - **H.**  
     - [ ] **Prerequisite (s):**
     - [ ] **Corequisite (s):**
-    - [ ] **Prerequisite (s) and Corequisite (s):**
 - **I.** **Additional Fees:** Yes
-- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** 
-    - Patrice Marks (Dean) - patrice.marks@raritanval.edu
-    - Virginia Smith (Co-Chair) - virginia.smith@raritanval.edu
-    - Darren McManus (Co-Chair) - darren.mcmanus@raritanval.edu
 
 ## II. Catalog Description
 
@@ -134,6 +129,5 @@ The course outline is intended only as a guide to course content and resources. 
 
 ## X. Honors Options
 - [ ] Honors Course
-- [ ] Honors Option
 - [x] N/A
 

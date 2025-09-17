@@ -19,12 +19,7 @@
 - **H.** 
     - [ ] **Prerequisite (s):**
     - [ ] **Corequisite (s):** 
-    - [ ] **Prerequisite (s) and **Corequisite (s):**:**
 - **I.** **Additional Fees:** No.
-- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** 
-    - Patrice Marks (Dean) - patrice.marks@raritanval.edu
-    - Virginia Smith (Co-Chair) - virginia.smith@raritanval.edu
-    - Darren McManus (Co-Chair) - darren.mcmanus@raritanval.edu
 
 ## II. Catalog Description
 
@@ -200,6 +195,4 @@ playtesting
 
 ## X. Honors Options
 - [ ] Honors Course
-- [ ] Honors Option
 - [x] N/A
-

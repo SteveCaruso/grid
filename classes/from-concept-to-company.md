@@ -18,13 +18,8 @@
     - Out of class student work per week: 5
 - **H.** 
     - [x] **Prerequisite (s):** A grade of C or higher in GRID 120 - Game Design Theory
-    - [ ] **Corequisite (s):** 
-    - [ ] **Prerequisite (s) and **Corequisite (s):**:**
+    - [ ] **Corequisite (s):**
 - **I.** **Additional Fees:** No.
-- **J.** **Name and E-Mail Address of Department Chair and Divisional Dean at time of approval:** 
-    - Patrice Marks (Dean) - patrice.marks@raritanval.edu
-    - Virginia Smith (Co-Chair) - virginia.smith@raritanval.edu
-    - Darren McManus (Co-Chair) - darren.mcmanus@raritanval.edu
 
 ## II. Catalog Description
 
@@ -126,7 +121,6 @@ The modes and methods for teaching and learning that may be used in the course:
 
 ## VIII. Texts and Materials
 - **A.** Suggested textbooks:
-    - [NOTE: We will need some more current titles, but these are the ones that came directly to mind:]
     - "The Lean Startup" by Eric Ries
     - "Press Reset: Ruin and Recovery in the Video Game Industry" by Jason Schreier
     - "The Art of Game Design: A Book of Lenses" by Jesse Schell
@@ -143,7 +137,4 @@ The modes and methods for teaching and learning that may be used in the course:
 
 ## X. Honors Options
 - [ ] Honors Course
-- [ ] Honors Option
 - [x] N/A
-
-

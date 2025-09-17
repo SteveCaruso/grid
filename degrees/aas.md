@@ -50,11 +50,11 @@ Students must choose 3 courses from the GRID Electives List. Suggested Tracks of
 # GRID Electives List
 
 * [GRID 220 - Interactive Audio & Video Design](../classes/interactive-audio-video-design.md) (3 credits) — **REVISED ARTS 277**
-* GRID 170 - Narrative & World-building (3 credits) — **REVISED ARTS 259**
-* GRID 230 - Web Page Development II
-* GRID 231 - JavaScript
+* [GRID 170 - Narrative & World-building](../classes/narrative-and-worldbuilding.md) (3 credits) — **REVISED ARTS 259**
+* [GRID 230 - Web Page Development II](../classes/web-page-development-ii.md)
+* [GRID 231 - JavaScript](../classes/javascript.md)
 * [GRID 240 - From Concept to Company](../classes/from-concept-to-company.md) — **NEW**
-* GRID 250 - Gameplay Implementation — **NEW**
+* [GRID 250 - Game Systems Implementation](../classes/game-systems-implementation.md) — **NEW**
     * A rotating set of 4-6 electives covering topics such as:
         * Action
         * Cozy
@@ -67,13 +67,13 @@ Students must choose 3 courses from the GRID Electives List. Suggested Tracks of
 
 # Suggested Pathways of Study
 
-For particular concentrations, it is suggested that students in IDEA follow these paths.
+For particular concentrations, it is suggested that students in GRID follow these paths.
 
 ## Game Art Path
 Focuses on developing artistic skills essential for game design, including composition, drawing, and visual storytelling. Students gain a foundation in traditional and digital art techniques to create compelling game assets.
 1. ARTS 105 - Two-D Design
 1. ARTS 110 - Basic Drawing I
-1. Additional IDEA Elective
+1. Additional GRID Elective
 
 ## Web Dev 
 Prepares students for careers in Front-End and UX Design by covering JavaScript, advanced web development, and entrepreneurial skills. Emphasizes both technical proficiency and user-centered design principles.
