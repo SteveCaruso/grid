@@ -5,7 +5,7 @@
 ## I. Basic Course Information
 
 - **A.** **Course Number and Title:** GRID 201 – GRID Production I
-- **B.** **New or Modified Course:** New
+- **B.** **New or Modified Course:** Revised
 - **C.** **Date of Proposal:**  
     - Semester: Fall  
     - Year: 2025
