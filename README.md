@@ -9,6 +9,7 @@ A proposed merger of the Game Dev, Game Art, and IDMX Programs at RVCC:
 * **[New Courses Table](./documents/new-courses.md)**
 * **[Course Deletions & Revisions Table](./documents/course-deletions.md)**
 * **[Program Council Issues Resolution](./documents/program-council-resolution.md)**
+* **[Executive Summary of Major Changes](./documents/executive-summary.md)**
 
 The resulting program would have the following (based on Spring 2024 Fact Book figures):
 
