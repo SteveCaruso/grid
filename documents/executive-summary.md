@@ -71,6 +71,6 @@
 - **Film** - ***Moderate Impact***
     - *What's Affected?*
         - IDMX 114 - Interactive Multimedia is undergoing a *major* revision and may be unsuitable for the **Digital Video Production, Certificate** as a requirement.
-    - *Solutuon:*
+    - *Solution:*
         - Check to see if GRID 111 - Creative Computing I is suitable or not as a replacement, and if not find a new requirement that is.
         - Waiting to hear back from Evan.
