@@ -1,6 +1,12 @@
 # GRID
 ## Executive Summmary of Major Changes
 
+### Degrees Being Deleted & Taught Out
+- Interface Design & Web Development (AS)
+- Interface Design & Web Development (AAS)
+- Game Development (AAS)
+- Game Art (AS)
+
 ### Courses Undergoing Major Changes
 - IDMX 114 - Interactive Multimedia
     - → **BECOMES:** GRID 111 Creative Computing I (seeking Gen Ed Tech status)
