@@ -1,10 +1,10 @@
 # RARITAN VALLEY COMMUNITY COLLEGE ACADEMIC COURSE OUTLINE
 
-# GRID 120 – Game Design Theory
+# GRID 120 – Game Design: Systems
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** GRID 120 – Game Design Theory
+- **A.** **Course Number and Title:** GRID 120 – Game Design: Systems 
 - **B.** **New or Modified Course:** Modified
 - **C.** **Date of Proposal:**  
     - Semester: Fall  
