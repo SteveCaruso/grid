@@ -4,22 +4,22 @@
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** GRID 120 – Game Design Theory
-- **B.** **New or Modified Course:** Modified
-- **C.** **Date of Proposal:**  
+1. **Course Number and Title:** GRID 120 – Game Design Theory
+1. **New or Modified Course:** Modified
+1. **Date of Proposal:**  
     - Semester: Fall  
     - Year: 2025
-- **D.** **Effective Term:** Fall 2026
-- **E.** **Sponsoring Department:** Arts & Design
-- **F.** **Semester Credit Hours:** 3
-- **G.** **Weekly Contact Hours:** 4 
+1. **Effective Term:** Fall 2026
+1. **Sponsoring Department:** Arts & Design
+1. **Semester Credit Hours:** 3
+1. **Weekly Contact Hours:** 4 
     - Lecture: 2
     - Laboratory: 2  
     - Out of class student work per week: 5
-- **H.** 
+1. 
     - [ ] **Prerequisite (s):**
     - [ ] **Corequisite (s):** 
-- **I.** **Additional Fees:** No.
+1. **Additional Fees:** No.
 
 ## II. Catalog Description
 
@@ -27,17 +27,17 @@ This course introduces the creative process of game design and development for s
 
 ## III. Statement of Course Need
 
-- **A.** Students wishing to become professional game designers need to understand how to objectively analyze existing games to identify the design choices and systems chosen by the game’s creators. This can only be accomplished by developing the student’s understanding of the iterative process.
-- **B.** This course has a lab component to allow students to: develop broader game literacy, to implement the team based iterative process of game systems development, and to create the rule sets, game components and planning documents needed to present a formal game design.
-- **C.** This course generally transfers as a game design or game development program requirement or as a general elective.
+1. Students wishing to become professional game designers need to understand how to objectively analyze existing games to identify the design choices and systems chosen by the game’s creators. This can only be accomplished by developing the student’s understanding of the iterative process.
+1. This course has a lab component to allow students to: develop broader game literacy, to implement the team based iterative process of game systems development, and to create the rule sets, game components and planning documents needed to present a formal game design.
+1. This course generally transfers as a game design or game development program requirement or as a general elective.
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** This course meets a program requirement for GRID.
-- **B.** Free Elective
-- **C.** This course serves as a Computer Elective on the Computer and Programming
+1. Free Elective
+1. This course meets a program requirement for GRID.
+1. This course serves as a Computer Elective on the Computer and Programming
 Electives List
-- **D.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
+1. To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
 ## V. Outline of Course Content
 
@@ -97,18 +97,18 @@ Electives List
 
 ## VI. 
 
-- **A.** **<u>Course Learning Outcomes:</u>**  
+1. **<u>Course Learning Outcomes:</u>**  
 
-**At the completion of the course, students will be able to:**  
-1. Identify and explain the market forces, platforms, genres, and careers in the game
-industry
-2. Create a high-fidelity, multiplayer analog game rule-set and prototype using an
-iterative, play-centric design process
-3. Create a preliminary design plan to implement the analog game as a digital game
-4. Explain and defend their system design to game industry professionals
-5. Analyze and critique analog and digital games.
+    **At the completion of the course, students will be able to:**  
+    1. Identify and explain the market forces, platforms, genres, and careers in the game
+    industry
+    2. Create a high-fidelity, multiplayer analog game rule-set and prototype using an
+    iterative, play-centric design process
+    3. Create a preliminary design plan to implement the analog game as a digital game
+    4. Explain and defend their system design to game industry professionals
+    5. Analyze and critique analog and digital games.
 
-- **B.** **<u>Assessment Instruments</u>**  
+1. **<u>Assessment Instruments</u>**  
     1. laboratory products – (ie game design and components)
     2. research papers – (ie. Interface, control or screen flow analysis)
     3. demonstrations – (ie examination of their game in play)
@@ -153,22 +153,22 @@ The modes and methods for teaching and learning that may be used in the course:
 1. independent study
 
 ## VIII. Texts and Materials
-- **A.** suggested textbook - Fullerton, Tracy, Game Design Workshop, A Playcentric
+1. suggested textbook - Fullerton, Tracy, Game Design Workshop, A Playcentric
 Approach to Creating Innovative Games, Taylor & Francis, 2008.
-- **B.** primary sources – Common video game for analysis and discussion such as
+1. primary sources – Common video game for analysis and discussion such as
 Plants Vs. Zombies
-- **C.** audio sources – game industry podcasts such as The DialogBox via
+1. audio sources – game industry podcasts such as The DialogBox via
 Soundcloud.com
-- **D.** web sources –
+1. web sources –
     1. Safari computer books database via RVCC library
     2. Game Developers Conference Vault
     3. GameIndustry.biz
     4. Gamasutra.com
-- **E.** Design Notebook
+1. Design Notebook
     1. Small moleskine pocket notebook or similar
 
 ## IX. Resources
-- **A.** Classroom with Prototyping materials and space for crafting components and
+1. Classroom with Prototyping materials and space for crafting components and
 playtesting
     1. Wood and plastic blocks
     2. Glass beads
@@ -180,19 +180,28 @@ playtesting
     8. playing cards
     9. 8.5” x 11” Avery labels
     10. Paper cutter
-- **B.** Computer Lab with Microsoft Office (Word, Excel, PowerPoint) and access to the Internet
-- **A.** Adobe Creative Suite
-- **C.** Large format printer rolls, ink and poster printer
-- **D.** GameMaker Studio, Construct or other 2D game engine
-- **E.** Unity 3D, Unreal engine or other 3D game engine
-- **F.** iPad and Android tablets
-- **G.** Board & card game collection
-- **H.** Video game consoles and software collection
-- **I.** Hand held game consoles and software collection
-- **J.** Subscription to Steam software portal for college
+1. Computer Lab with Microsoft Office (Word, Excel, PowerPoint) and access to the Internet
+1. Adobe Creative Suite
+1. Large format printer rolls, ink and poster printer
+1. GameMaker Studio, Construct or other 2D game engine
+1. Unity 3D, Unreal engine or other 3D game engine
+1. iPad and Android tablets
+1. Board & card game collection
+1. Video game consoles and software collection
+1. Hand held game consoles and software collection
+1. Subscription to Steam software portal for college
 
 (Please Note: The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.)
 
 ## X. Honors Options
 - [ ] Honors Course
 - [x] N/A
+
+<style>
+ol {
+    list-style:upper-alpha;
+}
+ol ol {
+    list-style:decimal;
+}
+</style>

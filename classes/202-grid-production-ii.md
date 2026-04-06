@@ -4,40 +4,40 @@
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** GRID 202 - GRID Production II
-- **B.** **New or Modified Course:** Revised
-- **C.** **Date of Proposal:**  
+1. **Course Number and Title:** GRID 202 - GRID Production II
+1. **New or Modified Course:** New
+1. **Date of Proposal:**  
     - Semester: Fall  
     - Year: 2025
-- **D.** **Effective Term:** Fall 2026
-- **E.** **Sponsoring Department:** Arts & Design
-- **F.** **Semester Credit Hours:** 3
-- **G.** **Weekly Contact Hours:** 4 
+1. **Effective Term:** Fall 2026
+1. **Sponsoring Department:** Arts & Design
+1. **Semester Credit Hours:** 3
+1. **Weekly Contact Hours:** 4 
     - Lecture: 2
     - Laboratory: 2  
     - Out of class student work per week: 5
-- **H.** 
+1.  
     - [x] **Prerequisite (s):** A grade of C or higher in GRID 201 – GRID Production I 
     - [ ] **Corequisite (s):** 
-- **I.** **Additional Fees:** Yes
+1. **Additional Fees:** Yes
 
 ## II. Catalog Description
 
-Building on the foundations of GRID Production I, this course focuses on advanced project development, refinement, and finalization of interactive digital experiences. Students will work in teams to create polished, portfolio-ready projects while applying professional production techniques, iterative design processes, and user testing. Emphasis is placed on project scalability, optimization, and presentation, preparing students for careers in game development, web development, and interactive media.
+**Prerequisite: A grade of C or higher in GRID 201 – GRID Production I.** Building on the foundations of GRID Production I, this course focuses on advanced project development, refinement, and finalization of interactive digital experiences. Students will work in teams to create polished, portfolio-ready projects while applying professional production techniques, iterative design processes, and user testing. Emphasis is placed on project scalability, optimization, and presentation, preparing students for careers in game development, web development, and interactive media.
 
 This course serves as a capstone experience, enabling students to leave the program with a complete, high-quality project that showcases their skills and is ready for real-world application or industry submission.
 
 ## III. Statement of Course Need
 
-- **A.** To compete in the evolving digital media and game development industries, students must be able to refine, optimize, and present high-quality interactive projects. GRID Production II addresses this need by guiding students through advanced project iteration, user testing, and professional presentation. By focusing on polishing and finalizing portfolio-ready work, this course ensures graduates are industry-ready, with a deep understanding of the full production lifecycle and the ability to create compelling, marketable interactive experiences.
-- **B.** This course has a weekly lab component. The lab is essential for providing students hands on programming time.
-- **C.** This course generally transfers as a game design or game development program requirement or as a general elective.
+1. To compete in the evolving digital media and game development industries, students must be able to refine, optimize, and present high-quality interactive projects. GRID Production II addresses this need by guiding students through advanced project iteration, user testing, and professional presentation. By focusing on polishing and finalizing portfolio-ready work, this course ensures graduates are industry-ready, with a deep understanding of the full production lifecycle and the ability to create compelling, marketable interactive experiences.
+1. This course has a weekly lab component. The lab is essential for providing students hands on programming time.
+1. This course generally transfers as a game design or game development program requirement or as a general elective.
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** This course meets a program requirement for GRID.
-- **B.** Free Elective
-- **C.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
+1. Free Elective
+1. This course meets a program requirement for GRID.
+1. To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
 ## V. Outline of Course Content
 
@@ -69,7 +69,7 @@ This course serves as a capstone experience, enabling students to leave the prog
 
 ## VI. 
 
-- **A.** **<u>Course Learning Outcomes:</u>**  
+1. **<u>Course Learning Outcomes:</u>**  
 
     **At the completion of the course, students will be able to:**  
     1. Develop a complete, polished interactive project demonstrating technical and artistic proficiency.
@@ -78,7 +78,7 @@ This course serves as a capstone experience, enabling students to leave the prog
     1. Utilize professional project management tools and methodologies.
     1. Present and showcase a final project suitable for professional portfolios or industry applications.
 
-- **B.** **<u>Assessment Instruments</u>**  
+1. **<u>Assessment Instruments</u>**  
     1. Programming projects (required)
     2. Exams
     3. Weekly homework
@@ -101,19 +101,28 @@ The modes and methods for teaching and learning that may be used in the course:
 1. Student collaboration
 
 ## VIII. Texts and Materials
-- **A.** Suggested readings and online resources:
+1. Suggested readings and online resources:
     - Agile Game Development: Build, Play, Repeat – Clinton Keith
     - Level Up! The Guide to Great Video Game Design – Scott Rogers
-- **B.** primary sources
-- **C.** student sample code
-- **D.** web sources – Processing samples online
+1. primary sources
+1. student sample code
+1. web sources – Processing samples online
 
 ## IX. Resources
-- **A.** Computer Lab for classroom instruction and exercises
-- **B.** Technology Support - Javascript enabled web browser installed on the workstations in the Computer Lab, Processing development environment (PDE) and Java SDK.
+1. Computer Lab for classroom instruction and exercises
+1. Technology Support - Javascript enabled web browser installed on the workstations in the Computer Lab, Processing development environment (PDE) and Java SDK.
 
 (Please Note: The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.)
 
 ## X. Honors Options
 - [ ] Honors Course
 - [x] N/A
+
+<style>
+ol {
+    list-style:upper-alpha;
+}
+ol ol {
+    list-style:decimal;
+}
+</style>

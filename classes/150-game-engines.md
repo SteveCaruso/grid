@@ -4,22 +4,22 @@
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** GRID 150 - Game Engines
-- **B.** **New or Modified Course:** Modified
-- **C.** **Date of Proposal:**  
+1. **Course Number and Title:** GRID 150 - Game Engines
+1. **New or Modified Course:** Modified
+1. **Date of Proposal:**  
     - Semester: Fall  
     - Year: 2025
-- **D.** **Effective Term:** Fall 2026
-- **E.** **Sponsoring Department:** Arts & Design
-- **F.** **Semester Credit Hours:** 3
-- **G.** **Weekly Contact Hours:** 4 
+1. **Effective Term:** Fall 2026
+1. **Sponsoring Department:** Arts & Design
+1. **Semester Credit Hours:** 3
+1. **Weekly Contact Hours:** 4 
     - Lecture: 2
     - Laboratory: 2  
     - Out of class student work per week: 5
-- **H.** 
+1.  
     - [ ] **Prerequisite (s):** 
     - [ ] **Corequisite (s):** 
-- **I.** **Additional Fees:** No
+1. **Additional Fees:** No
 
 ## II. Catalog Description
 
@@ -27,15 +27,15 @@ This course will introduce students to the art and programming aspects of develo
 
 ## III. Statement of Course Need
 
-- **A.** This course is fundamental for the rest of the Game Art program. Students learn the essential technical and creative skills necessary to make art for video game and related interactive environments.
-- **B.** This course has a lab component that is required for students to work on both studio art and technology based game design. Students will be required to use computers, scanners and tablets, to perform tasks such as digital drawing and programming.
-- **C.** This course will generally transfer to institutions offering game and multimedia based design degrees. The skills used in this course will be required for transferring into any corresponding programs.
+1. This course is fundamental for the rest of the GRID Program. Students learn the essential technical and creative skills necessary to make art for video game and related interactive environments.
+1. This course has a lab component that is required for students to work on both studio art and technology based game design. Students will be required to use computers, scanners and tablets, to perform tasks such as digital drawing and programming.
+1. This course will generally transfer to institutions offering game and multimedia based design degrees. The skills used in this course will be required for transferring into any corresponding programs.
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** This Course meets a requirement for GRID.
-- **B.** Free Elective
-- **C.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
+1. Free Elective
+1. This Course meets a requirement for GRID.
+1. To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
 ## V. Outline of Course Content
 
@@ -79,14 +79,14 @@ This course will introduce students to the art and programming aspects of develo
 
 ## VI. 
 
-- **A.** **<u>Course Learning Outcomes:</u>**  
+1. **<u>Course Learning Outcomes:</u>**  
 
     **At the completion of the course, students will be able to:** 
     1. Produce professional quality assets for game and interactive media.
     2. Assess how these assets interface into a programming environment.
     3. Learn collaborative and team development skills.
 
-- **B.** **<u>Assessment Instruments</u>**  
+1. **<u>Assessment Instruments</u>**  
     1. laboratory products – (ie game design and components)
     2. research papers – (ie. Interface, control or screen flow analysis)
     3. demonstrations – (ie examination of their game in play)
@@ -118,20 +118,20 @@ The modes and methods for teaching and learning that may be used in the course:
 1. Project completion
 
 ## VIII. Texts and Materials
-- **A.** suggested textbook
-- **B.** instructor hand outs
-- **C.** art examples
-- **D.** game design examples
-- **E.** web video
-- **F.** online learning resources (Lynda.com, etc…)
+1. suggested textbook
+1. instructor hand outs
+1. art examples
+1. game design examples
+1. web video
+1. online learning resources (Lynda.com, etc…)
 
 ## IX. Resources
-- **A.** Modern computer workstations
-- **B.** Three dimensional game development software
-- **C.** Digital drawing tablets
-- **D.** Adobe creative cloud software or similar.
-- **E.** Unity game engine or similar.
-- **F.** Paper drawing tablet, pencils and other art supplies
+1. Modern computer workstations
+1. Three dimensional game development software
+1. Digital drawing tablets
+1. Adobe creative cloud software or similar.
+1. Unity game engine or similar.
+1. Paper drawing tablet, pencils and other art supplies
 
 (Please Note: The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.)
 
@@ -139,3 +139,11 @@ The modes and methods for teaching and learning that may be used in the course:
 - [ ] Honors Course
 - [x] N/A
 
+<style>
+ol {
+    list-style:upper-alpha;
+}
+ol ol {
+    list-style:decimal;
+}
+</style>

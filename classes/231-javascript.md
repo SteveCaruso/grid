@@ -4,22 +4,22 @@
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** GRID 231 JavaScript
-- **B.** **New or Modified Course:** Modified
-- **C.** **Date of Proposal:**  
+1. **Course Number and Title:** GRID 231 JavaScript
+1. **New or Modified Course:** Modified
+1. **Date of Proposal:**  
     - Semester: Fall  
     - Year: 2025
-- **D.** **Effective Term:** Fall 2026
-- **E.** **Sponsoring Department:** Arts & Design
-- **F.** **Semester Credit Hours:** 3
-- **G.** **Weekly Contact Hours:** 4  
+1. **Effective Term:** Fall 2026
+1. **Sponsoring Department:** Arts & Design
+1. **Semester Credit Hours:** 3
+1. **Weekly Contact Hours:** 4  
     - Lecture: 2
     - Laboratory: 2  
     - Out of class student work per week: 5
-- **H.** 
+1. 
     - [ ] **Prerequisite (s):**
     - [ ] **Corequisite (s):** 
-- **I.** **Additional Fees:** No.
+1. **Additional Fees:** No.
 
 ## II. Catalog Description
 
@@ -27,16 +27,16 @@ Modern JavaScript is the most widely used programming language in the world. Whi
 
 ## III. Statement of Course Need
 
-- **A.** JavaScript (in the ECMAScript family of languages) is a popular Scripting language used in Industry to design and implement dynamic web pages. Knowledge of this subject matter is essential to those students pursuing programs in Interface Design, Web Development, and related fields.
-- **B.** This course requires the use of a Computer Lab. Students are required to use the software in the Computer labs or on their personal devices in order to complete their assignments.
-- **C.** Transferability of Course: This course may transfer as a free elective or as a Computer Science elective.
+1. JavaScript (in the ECMAScript family of languages) is a popular Scripting language used in Industry to design and implement everything from dynamic web pages to server-side applications.
+1. This course requires the use of a Computer Lab. Students are required to use the software in the Computer labs or on their personal devices in order to complete their assignments.
+1. Transferability of Course: This course may transfer as a free elective or as a Computer Science elective.
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** This course meets a program requirement for GRID.
-- **B.** Free Elective
-- **C.** Programming Elective in the Computer and Programming Electives List.
-- **D.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
+1. Free Elective
+1. This course meets a program requirement for GRID.
+1. Programming Elective in the Computer and Programming Electives List.
+1. To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
 ## V. Outline of Course Content
 
@@ -60,7 +60,7 @@ Modern JavaScript is the most widely used programming language in the world. Whi
 
 ## VI. 
 
-- **A.** **<u>Course Learning Outcomes:</u>**  
+1. **<u>Course Learning Outcomes:</u>**  
 
     **At the completion of the course, students will be able to:**  
     1. Solve information processing problems by using the JavaScript programming language to produce well designed computer programs (GE-NJ 4).
@@ -69,7 +69,7 @@ Modern JavaScript is the most widely used programming language in the world. Whi
     1. Use version control to manage software development.
     1. Finding and using services for distributed development.
 
-- **B.** **<u>Assessment Instruments</u>**  
+1. **<u>Assessment Instruments</u>**  
     1. demonstrations
     1. computer programs
 
@@ -95,16 +95,25 @@ The modes and methods for teaching and learning that may be used in the course:
 With JavaScript’s yearly update schedule, this class is best taught with Open Educational
 Resources and with the official specifications outlined on the following webpages:
 
-- The TC39 group (JavaScript’s standards-developing body):
+1. The TC39 group (JavaScript’s standards-developing body):
     - https://tc39.es/
     - https://www.ecma-international.org/technical-committees/tc39/
     - https://github.com/tc39
-- The Mozilla Foundation’s JavaScript Reference:
+1. The Mozilla Foundation’s JavaScript Reference:
     - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 
 ## IX. Resources
-- **A.** Computer lab or personal computer with reliable Internet connectivity.
+1. Computer lab or personal computer with reliable Internet connectivity.
 
 ## X. Honors Options
 - [ ] Honors Course
 - [x] N/A
+
+<style>
+ol {
+    list-style:upper-alpha;
+}
+ol ol {
+    list-style:decimal;
+}
+</style>

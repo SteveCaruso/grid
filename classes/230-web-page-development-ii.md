@@ -4,22 +4,22 @@
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** : GRID 230 - Web Page Development II
-- **B.** **New or Modified Course:** Modified
-- **C.** **Date of Proposal:**
+1. **Course Number and Title:** : GRID 230 - Web Page Development II
+1. **New or Modified Course:** Modified
+1. **Date of Proposal:**
     - Semester: Fall  
     - Year: 2025
-- **D.** **Effective Term:** Fall 2026
-- **E.** **Sponsoring Department:** Arts & Design
-- **F.** **Semester Credit Hours:** 3
-- **G.** **Weekly Contact Hours:**
+1. **Effective Term:** Fall 2026
+1. **Sponsoring Department:** Arts & Design
+1. **Semester Credit Hours:** 3
+1. **Weekly Contact Hours:** 4
     - Lecture: 2
     - Laboratory: 2
     - Out of class student work per week: 5
-- **H.** 
+1.  
     - [x] **Prerequisite (s):** A grade of C or better in GRID 130 - Web Page Development I
     - [ ] **Corequisite (s):** 
-- **I.** **Laboratory Fees:** Yes.
+1. **Aditional Fees:** No.
 
 ## II. Catalog Description
 
@@ -27,25 +27,25 @@
 
 ## III. Statement of Course Need
 
-- **A.** As businesses continue to incorporate Web based strategies in order to remain
+1. As businesses continue to incorporate Web based strategies in order to remain
 competitive in today’s online world, the demand for Web site professionals remains
 strong. In the twentieth century, a rudimentary knowledge of HTML was all that was
 required in order to become a successful Web page developer. Today, professionals
 need to be familiar with HTML, CSS, JavaScript, database programming, server
 side programming, etc. This course is the second step (after Web Page Development
 I) that any future Web developer must take in the journey to proficiency.
-- **B.** Lab time is required in this course. Internet Accessible computers with multiple web
+1. Lab time is required in this course. Internet Accessible computers with multiple web
 browsers, ftp, and web authoring software are needed for students to develop and
 publish web pages.
-- **C.** This course generally transfers as a Web Development or Computer Science requirement or elective.
+1. This course generally transfers as a Web Development or Computer Science requirement or elective.
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** This course meets a program requirement for GRID.
-- **B.** Free Elective
-- **C.** This course serves as a Computer Elective on the Computer and Programming
+1. Free Elective
+1. This course meets a program requirement for GRID.
+1. This course serves as a Computer Elective on the Computer and Programming
 Electives List
-- **D.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
+1. To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
 ## V. Outline of Course Content
 
@@ -57,7 +57,7 @@ Electives List
 
 ## VI.
 
-- **A.** **<u>Course Learning Outcomes:</u>**
+1. **<u>Course Learning Outcomes:</u>**
 
     **At the completion of the course, students will be able to:**
     1. Design and publish modern webpages using modern web standards.
@@ -66,7 +66,7 @@ Electives List
     1. Present their design of a small Web site and the implementation of their design to the class
     1. Incorporate third party libraries.
 
-- **B.** **<u>Assessment Instruments</u>**
+1. **<u>Assessment Instruments</u>**
     1. personal website
     2. demonstrations
 
@@ -89,17 +89,26 @@ The modes, and methods for teaching and learning that may be used in the course:
 With the constant update schedule, this class is best taught with Open Educationa 
 Resources and with the official specifications outlined on the following webpages:
 
-- The TC39 group (JavaScript’s standards-developing body):
+1. The TC39 group (JavaScript’s standards-developing body):
     - https://tc39.es/
-- The Mozilla Foundation’s Reference:
+1. The Mozilla Foundation’s Reference:
     - https://developer.mozilla.org/en-US/docs/Web/
 
 (Please Note: The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.)
 
 ## IX. Resources
-- **A.** Computer lab with Internet access.
-- **B.** Code repository, modern publishing tools, and relevant accounts.
+1. Computer lab with Internet access.
+1. Code repository, modern publishing tools, and relevant accounts.
 
 ## X. Honors Options
 - [ ] Honors Course
 - [x] N/A
+
+<style>
+ol {
+    list-style:upper-alpha;
+}
+ol ol {
+    list-style:decimal;
+}
+</style>

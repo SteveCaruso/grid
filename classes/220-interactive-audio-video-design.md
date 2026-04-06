@@ -4,38 +4,38 @@
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** GRID 220 - Interactive Audio & Video Design
-- **B.** **New or Modified Course:** Revised
-- **C.** **Date of Proposal:**  
+1. **Course Number and Title:** GRID 220 - Interactive Audio & Video Design
+1. **New or Modified Course:** Modified
+1. **Date of Proposal:**  
     - Semester: Fall  
     - Year: 2025
-- **D.** **Effective Term:** Fall 2026
-- **E.** **Sponsoring Department:** Arts & Design
-- **F.** **Semester Credit Hours:** 3
-- **G.** **Weekly Contact Hours:** 4 
+1. **Effective Term:** Fall 2026
+1. **Sponsoring Department:** Arts & Design
+1. **Semester Credit Hours:** 3
+1. **Weekly Contact Hours:** 4 
     - Lecture: 2
     - Laboratory: 2  
     - Out of class student work per week: 5
-- **H.** 
-    - [x] **Prerequisite (s):** GRID 150 Game Engines
+1.  
+    - [x] **Prerequisite (s):** A C or better in GRID 150 Game Engines
     - [ ] **Corequisite (s):** 
-- **I.** **Additional Fees:** No
+1. **Additional Fees:** No
 
 ## II. Catalog Description
 
-This course will cover the theory, as well as practical applications, of audio and computer video techniques as used in the game industry. Emphasis will be placed on methods of sound integration and video effects and how they impact character development and enhance the game-playing experience. Additional audio topics covered include: sound perception, waveform editing, sound effects and an introduction to MIDI, music composition and voiceovers. Computer video topics include: image composition, virtual cameras, motion capture and video compression.
+**Prerequisite: A C or better in GRID 150 Game Engines.** This course will cover the theory, as well as practical applications, of audio and computer video techniques as used in the game industry. Emphasis will be placed on methods of sound integration and video effects and how they impact character development and enhance the game-playing experience. Additional audio topics covered include: sound perception, waveform editing, sound effects and an introduction to MIDI, music composition and voiceovers. Computer video topics include: image composition, virtual cameras, motion capture and video compression.
 
 ## III. Statement of Course Need
 
-- **A.** Students planning a career in game development must have at least a general knowledge of audio and computer video techniques to allow them to communicate with the specialists in these areas. Additionally, specific knowledge of video and audio techniques is necessary in the development of game characters, synchronization of sound and animation and to create additional layers of richness in the game environment
-- **B.** This course requires the use of a Computer Lab for research, presentations, and discussions.
-- **C.** This course generally transfers as a game design or game development program requirement or as a general elective.
+1. Students planning a career in game development must have at least a general knowledge of audio and computer video techniques to allow them to communicate with the specialists in these areas. Additionally, specific knowledge of video and audio techniques is necessary in the development of game characters, synchronization of sound and animation and to create additional layers of richness in the game environment
+1. This course requires the use of a Computer Lab for research, presentations, and discussions.
+1. This course generally transfers as a game design or game development program requirement or as a general elective.
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** This course meets a program requirement for GRID.
-- **B.** Free Elective
-- **C.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
+1. Free Elective
+1. This course meets a program requirement for GRID.
+1. To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
 ## V. Outline of Course Content
 
@@ -75,7 +75,7 @@ This course will cover the theory, as well as practical applications, of audio a
 
 ## VI. 
 
-- **A.** **<u>Course Learning Outcomes:</u>**  
+1. **<u>Course Learning Outcomes:</u>**  
 
     **At the completion of the course, students will be able to:**  
     1. Produce a written process log of their game audio project  (GE-NJ 1, 4)  
@@ -84,7 +84,7 @@ This course will cover the theory, as well as practical applications, of audio a
     4. Explain the major film genres and the concept of visual narrative as applied to game development
     5. Develop and direct a scene for motion capture artist and incorporate result into cutscene in game engine
 
-- **B.** **<u>Assessment Instruments</u>**  
+1. **<u>Assessment Instruments</u>**  
     1. projects (required)
     2. Design documentation – (required) 
     3. reading quizzes
@@ -105,22 +105,31 @@ The modes and methods for teaching and learning that may be used in the course:
 1. laboratory 
 
 ## VIII. Texts and Materials
-- **A.** Suggested readings and online resources:
+1. Suggested readings and online resources:
     - Game Audio Fundamentals: An Introduction to the Theory, Planning, and Practice of Soundscape Creation for Games - Keith Zizza (2023)
     - A Concise Introduction To Cinematics In Games: Telling Stories Between Play Paperback – Jake Stanley Brown (2024)
-- **B.** audio sources – game industry podcasts 
-- **C.** web sources
+1. audio sources – game industry podcasts 
+1. web sources
     1. Safari computer books database via RVCC library 
     2. Game Developers Conference Vault or the GDC channel on YouTube 
     3. GameIndustry.biz 
     4. GameDeveloper.com  
 
 ## IX. Resources
-- **A.** Computer lab with audio production software and recording capabilities 
-- **B.** Adobe Creative Suite 
-- **C.** GameMaker Studio, Construct or other 2D game engine
-- **D.** Unity 3D, Unreal engine or other 3D game engine 
+1. Computer lab with audio production software and recording capabilities 
+1. Adobe Creative Suite 
+1. GameMaker Studio, Construct or other 2D game engine
+1. Unity 3D, Unreal engine or other 3D game engine 
 
 ## X. Honors Options
 - [ ] Honors Course
 - [x] N/A
+
+<style>
+ol {
+    list-style:upper-alpha;
+}
+ol ol {
+    list-style:decimal;
+}
+</style>

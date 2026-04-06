@@ -4,22 +4,22 @@
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** GRID 250 - Game Systems Implementation
-- **B.** **New or Modified Course:** New
-- **C.** **Date of Proposal:**
+1. **Course Number and Title:** GRID 250 - Game Systems Implementation
+1. **New or Modified Course:** New
+1. **Date of Proposal:**
     - Semester: Fall  
     - Year: 2025
-- **D.** **Effective Term:** Fall 2026
-- **E.** **Sponsoring Department:** Arts & Design
-- **F.** **Semester Credit Hours:** 3
-- **G.** **Weekly Contact Hours:** 4
+1. **Effective Term:** Fall 2026
+1. **Sponsoring Department:** Arts & Design
+1. **Semester Credit Hours:** 3
+1. **Weekly Contact Hours:** 4
     - Lecture: 2
     - Laboratory: 2
     - Out of class student work per week: 5
-- **H.** 
+1. 
     - [x] **Prerequisite (s):** A grade of C or higher in GRID 112 - Creative Computing 2
     - [ ] **Corequisite (s):** 
-- **I.** **Additional Fees:** No.
+1. **Additional Fees:** No.
 
 ## II. Catalog Description
 
@@ -27,15 +27,15 @@
 
 ## III. Statement of Course Need
 
-- **A.** The digital game industry is driven by the principles of software creation and engineering in the pursuit of providing entertainment. It is necessary for game developers to know when code effort should be taken so that it can be engineered for modifcation and longevity and when the code is "g ood enough" for its intended purpose. Topics include reducing explicit coupling between gameplay systems, writing cohesive, extensible game system objects, designing code for mutliple players interacting across a network, and selecting from available messaging systems to implement multiple systems into a single product 
-- **B.** This course requires the use of a Computer Lab for game development software and digital collaboration platforms.
-- **C.** Transferability of Course: This course may transfer as a free elective or as part of a Game Design or Digital Media degree program.
+1. The digital game industry is driven by the principles of software creation and engineering in the pursuit of providing entertainment. It is necessary for game developers to know when code effort should be taken so that it can be engineered for modification and longevity and when the code is "good enough" for its intended purpose. Topics include reducing explicit coupling between gameplay systems, writing cohesive, extensible game system objects, designing code for multiple players interacting across a network, and selecting from available messaging systems to implement multiple systems into a single product 
+1. This course requires the use of a Computer Lab for game development software and digital collaboration platforms.
+1. Transferability of Course: This course may transfer as a free elective or as part of a Game Design or Digital Media degree program.
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** This course meets a program requirement for GRID.
-- **B.** Free Elective
-- **C.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
+1. Free Elective
+1. This course meets a program requirement for GRID.
+1. To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
 ## V. Outline of Course Content
 
@@ -76,7 +76,7 @@
 
 ## VI. 
 
-- **A.** **<u>Course Learning Outcomes:</u>**
+1. **<u>Course Learning Outcomes:</u>**
 
     **At the completion of the course, students will be able to:**
     1. Develop a technical architecture for a game development project.
@@ -84,7 +84,7 @@
     3. Develop and implement a test plan for individual game systems
     4. Apply project management skills to game production.
 
-- **B.** **<u>Assessment Instruments</u>**
+1. **<u>Assessment Instruments</u>**
     1. Game play system project
     2. Game VFX system project
     3. Game UI system project
@@ -115,21 +115,30 @@ The modes and methods for teaching and learning that may be used in the course:
    
 
 ## VIII. Texts and Materials
-- **A.** Suggested textbooks:
+1. Suggested textbooks:
     - "Game Programming Patterns" by Robert Nystrom
     - "Learning Design Patterns with Unity" by Harrison Ferrone
     - "[Level Up Your Code with Game Programming Patterns](https://unity.com/resources/level-up-your-code-with-game-programming-patterns)" by Unity Press
  
-- **B.** Open Educational Resources (OER) and online business planning tools
+1. Open Educational Resources (OER) and online business planning tools
 
 ## IX. Resources
-- **A.** Computer lab with overhead projection
-- **B.** Game development engines (Unity, etc.)
-- **C.** Project management software
-- **D.** Online visual collaboration (Miro, LucidChart, etc.)
+1. Computer lab with overhead projection
+1. Game development engines (Unity, etc.)
+1. Project management software
+1. Online visual collaboration (Miro, LucidChart, etc.)
 
 (Please Note: The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.)
 
 ## X. Honors Options
 - [ ] Honors Course
 - [x] N/A
+
+<style>
+ol {
+    list-style:upper-alpha;
+}
+ol ol {
+    list-style:decimal;
+}
+</style>

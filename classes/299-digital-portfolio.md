@@ -4,22 +4,22 @@
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** GRID 299 Digital Portfolio
-- **B.** **New or Modified Course:** Modified
-- **C.** **Date of Proposal:** 
+1. **Course Number and Title:** GRID 299 Digital Portfolio
+1. **New or Modified Course:** Modified
+1. **Date of Proposal:** 
     - Semester: Fall  
     - Year: 2025
-- **D.** **Effective Term:** Fall 2026
-- **E.** **Sponsoring Department:** Arts & Design
-- **F.** **Semester Credit Hours:** 1
-- **G.** **Weekly Contact Hours:** 2
+1. **Effective Term:** Fall 2026
+1. **Sponsoring Department:** Arts & Design
+1. **Semester Credit Hours:** 1
+1. **Weekly Contact Hours:** 2
     - Lecture: 1
     - Laboratory: 1
     - Out of class student work per week: 2.5
-- **H.** **Corequisites:** 
+1. **Corequisites:** 
     - [ ] **Prerequisite (s):**
     - [ ] **Corequisite (s):**  GRID 202 - GRID Production II
-- **I.** **Additional Fees:** No.
+1. **Additional Fees:** No.
 
 ## II. Catalog Description
 
@@ -27,20 +27,20 @@
 
 ## III. Statement of Course Need
 
-- **A.** Organizing digital assets — especially interactive assets — in a displayable way, presents a number of challenges for
+1. Organizing digital assets — especially interactive assets — in a displayable way, presents a number of challenges for
 which developed best-practices vary. Within the programs that this course aligns
 with, having a well-designed digital portfolio is an essential part of establishing one’s
 expertise among peers. It is the first line of contact with prospective employers and is
 an essential part of successfully transferring to 4-year institutions.
-- **B.** This course requires the use of a Computer Lab to build and collate appropriate
+1. This course requires the use of a Computer Lab to build and collate appropriate
 digital assets.
-- **C.** Transferability of Course: This course may transfer as a free elective or as part of a Game Design or Digital Media degree program.
+1. Transferability of Course: This course may transfer as a free elective or as part of a Game Design or Digital Media degree program.
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** This course meets a program requirement for GRID.
-- **B.** Free Elective
-- **C.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
+1. Free Elective
+1. This course meets a program requirement for GRID.
+1. To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
 ## V. Outline of Course Content
 
@@ -60,7 +60,7 @@ digital assets.
 
 ## VI. 
 
-- **A.** **<u>Course Learning Outcomes:</u>**
+1. **<u>Course Learning Outcomes:</u>**
 
     **At the completion of the course, students will be able to:**
     1. Identify career possibilities and personal career goals within their field.
@@ -68,7 +68,7 @@ digital assets.
     3. Analyze digital design work and their own work in a professional manner.
     4. Prepare and publish a suitable resume and digital portfolio to establish rapport in their field, for transfer to 4-year programs, and/or career exploration.
 
-- **B.** **<u>Assessment Instruments</u>**
+1. **<u>Assessment Instruments</u>**
     1. Computer lab assignments
     2. Quizzes
     3. Final Portfolio
@@ -94,7 +94,7 @@ The modes, and methods for teaching and learning that may be used in the course:
 1. independent study
 
 ## VIII. Texts and Materials
-- **A.** Open Educational Resources (OER)
+1. Open Educational Resources (OER)
 
 ## IX. Resources
 1. Computer lab with overhead projection
@@ -108,3 +108,12 @@ The modes, and methods for teaching and learning that may be used in the course:
 ## X. Honors Options
 - [ ] Honors Course
 - [x] N/A
+
+<style>
+ol {
+    list-style:upper-alpha;
+}
+ol ol {
+    list-style:decimal;
+}
+</style>

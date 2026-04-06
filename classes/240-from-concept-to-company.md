@@ -4,22 +4,22 @@
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** GRID 240 - From Concept to Company
-- **B.** **New or Modified Course:** New
-- **C.** **Date of Proposal:**
+1. **Course Number and Title:** GRID 240 - From Concept to Company
+1. **New or Modified Course:** New
+1. **Date of Proposal:**
     - Semester: Fall  
     - Year: 2025
-- **D.** **Effective Term:** Fall 2026
-- **E.** **Sponsoring Department:** Arts & Design
-- **F.** **Semester Credit Hours:** 3
-- **G.** **Weekly Contact Hours:** 4
+1. **Effective Term:** Fall 2026
+1. **Sponsoring Department:** Arts & Design
+1. **Semester Credit Hours:** 3
+1. **Weekly Contact Hours:** 4
     - Lecture: 2
     - Laboratory: 2
     - Out of class student work per week: 5
-- **H.** 
+1.  
     - [x] **Prerequisite (s):** A grade of C or higher in GRID 120 - Game Design Theory
     - [ ] **Corequisite (s):**
-- **I.** **Additional Fees:** No.
+1. **Additional Fees:** No.
 
 ## II. Catalog Description
 
@@ -27,15 +27,15 @@
 
 ## III. Statement of Course Need
 
-- **A.** The gaming industry continues to expand, with increasing opportunities for independent developers and startups. Understanding business fundamentals is crucial for success in this highly competitive field.
-- **B.** This course requires the use of a Computer Lab for game development software, business planning tools, and digital collaboration platforms.
-- **C.** Transferability of Course: This course may transfer as a free elective or as part of a Game Design or Digital Media degree program.
+1. The gaming industry continues to expand, with increasing opportunities for independent developers and startups. Understanding business fundamentals is crucial for success in this highly competitive field.
+1. This course requires the use of a Computer Lab for game development software, business planning tools, and digital collaboration platforms.
+1. Transferability of Course: This course may transfer as a free elective or as part of a Game Design or Digital Media degree program.
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** This course meets a program requirement for GRID.
-- **B.** Free Elective
-- **C.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
+1. Free Elective
+1. This course meets a program requirement for GRID.
+1. To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
 ## V. Outline of Course Content
 
@@ -81,7 +81,7 @@
 
 ## VI. 
 
-- **A.** **<u>Course Learning Outcomes:</u>**
+1. **<u>Course Learning Outcomes:</u>**
 
     **At the completion of the course, students will be able to:**
     1. Develop a business plan for a game development company.
@@ -92,7 +92,7 @@
     6. Evaluate funding options for launching a project.
     7. Navigate the publishing and distribution landscape.
 
-- **B.** **<u>Assessment Instruments</u>**
+1. **<u>Assessment Instruments</u>**
     1. Business plan project
     2. Quizzes and exams
     3. Case studies and industry research assignments
@@ -120,21 +120,30 @@ The modes and methods for teaching and learning that may be used in the course:
 1. Simulated investor pitch sessions
 
 ## VIII. Texts and Materials
-- **A.** Suggested textbooks:
+1. Suggested textbooks:
     - "The Lean Startup" by Eric Ries
     - "Press Reset: Ruin and Recovery in the Video Game Industry" by Jason Schreier
     - "The Art of Game Design: A Book of Lenses" by Jesse Schell
     - "Blood, Sweat, and Pixels" by Jason Schreier
-- **B.** Open Educational Resources (OER) and online business planning tools
+1. Open Educational Resources (OER) and online business planning tools
 
 ## IX. Resources
-- **A.** Computer lab with overhead projection
-- **B.** Game development engines (Unity, etc.)
-- **C.** Business planning software
-- **D.** Marketing and analytics tools
+1. Computer lab with overhead projection
+1. Game development engines (Unity, etc.)
+1. Business planning software
+1. Marketing and analytics tools
 
 (Please Note: The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.)
 
 ## X. Honors Options
 - [ ] Honors Course
 - [x] N/A
+
+<style>
+ol {
+    list-style:upper-alpha;
+}
+ol ol {
+    list-style:decimal;
+}
+</style>

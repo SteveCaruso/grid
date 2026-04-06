@@ -4,26 +4,26 @@
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** GRID 112 Creative Computing II
-- **B.** **New or Modified Course:** New
-- **C.** **Date of Proposal:**  
+1. **Course Number and Title:** GRID 112 Creative Computing II
+1. **New or Modified Course:** New
+1. **Date of Proposal:**  
     - Semester: Fall  
     - Year: 2025
-- **D.** **Effective Term:** Fall 2026
-- **E.** **Sponsoring Department:** Arts & Design
-- **F.** **Semester Credit Hours:** 3
-- **G.** **Weekly Contact Hours:** 4
+1. **Effective Term:** Fall 2026
+1. **Sponsoring Department:** Arts & Design
+1. **Semester Credit Hours:** 3
+1. **Weekly Contact Hours:** 4
     - Lecture: 2
     - Laboratory: 2  
     - Out of class student work per week: 5
-- **H.**  
-    - [x] **Prerequisite (s):** A grade of C or higher in GRID 110 Creative Computing I
+1.  
+    - [x] **Prerequisite (s):** A grade of C or higher in GRID 111 Creative Computing I
     - [ ] **Corequisite (s):**
-- **I.** **Additional Fees:** Yes
+1. **Additional Fees:** No.
 
 ## II. Catalog Description
 
-**Prerequisite: A grade of C or higher in GRID 110 Creative Computing I** This course builds upon the foundational concepts introduced in **Creative Computing I** by exploring advanced programming techniques for digital media and interactive design. Students will deepen their understanding of object-oriented programming, algorithms, and real-time interactivity while working with Java, JavaScript, and frameworks such as p5.js and Processing.
+**Prerequisite: A grade of C or higher in GRID 111 Creative Computing I** This course builds upon the foundational concepts introduced in **Creative Computing I** by exploring advanced programming techniques for digital media and interactive design. Students will deepen their understanding of object-oriented programming, algorithms, and real-time interactivity while working with Java, JavaScript, and frameworks such as p5.js and Processing.
 
 Key topics include generative art, advanced animation, procedural content generation, physics-based simulations, and real-time data visualization. Students may also explore integration with external devices and sensors, as well as networking for interactive projects.
 
@@ -31,17 +31,17 @@ By the end of the course, students will have developed a collection of advanced 
 
 ## III. Statement of Course Need
 
-- **A.** This course extends the principles of **Creative Computing I** by introducing advanced digital media programming techniques essential for game development and interactive media. Students will explore more complex programming methodologies, including recursion, data structures, and physics-based animation, to create immersive experiences. This course also provides insight into working with real-time data, APIs, and device interactions.
+1. This course extends the principles of **Creative Computing I** by introducing advanced digital media programming techniques essential for game development and interactive media. Students will explore more complex programming methodologies, including recursion, data structures, and physics-based animation, to create immersive experiences. This course also provides insight into working with real-time data, APIs, and device interactions.
 
-- **B.** This course includes a required weekly lab component where students will implement interactive projects using Processing and JavaScript.
+1. This course includes a required weekly lab component where students will implement interactive projects using Processing and JavaScript.
 
-- **C.** This course generally transfers as a game design or game development program requirement or as a general elective.
+1. This course generally transfers as a game design or game development program requirement or as a general elective.
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** This course meets a program requirement for GRID.
-- **B.** Free Elective
-- **C.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
+1. Free Elective
+1. This course meets a program requirement for GRID.
+1. To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
 ## V. Outline of Course Content
 
@@ -85,7 +85,7 @@ By the end of the course, students will have developed a collection of advanced 
 
 ## VI.
 
-- **A.** **<u>Course Learning Outcomes:</u>**  
+1. **<u>Course Learning Outcomes:</u>**  
 
     **At the completion of the course, students will be able to:**  
     1. Design and implement advanced digital media applications using modern programming languages.
@@ -96,7 +96,7 @@ By the end of the course, students will have developed a collection of advanced 
     6. Integrate sound and visual effects into interactive applications.
     7. Recognize and analyze the ethical considerations of interactive technology and its impact on society.
 
-- **B.** **<u>Assessment Instruments</u>**  
+1. **<u>Assessment Instruments</u>**  
     1. Programming projects (required)
     2. Exams
     3. Weekly homework
@@ -119,14 +119,14 @@ The modes and methods for teaching and learning that may be used in the course:
 1. Student collaboration
 
 ## VIII. Texts and Materials
-- **A.** Suggested readings and online resources
-- **B.** Primary sources
-- **C.** Student sample code
-- **D.** Web sources – Processing and p5.js documentation
+1. Suggested readings and online resources
+1. Primary sources
+1. Student sample code
+1. Web sources – Processing and p5.js documentation
 
 ## IX. Resources
-- **A.** Computer Lab for classroom instruction and exercises
-- **B.** Technology Support (JavaScript-enabled web browser installed on the workstations in the Computer Lab, Processing development environment (PDE), and Java SDK.
+1. Computer Lab for classroom instruction and exercises
+1. Technology Support (JavaScript-enabled web browser installed on the workstations in the Computer Lab, Processing development environment (PDE), and Java SDK.
 
 (Please Note: The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.)
 

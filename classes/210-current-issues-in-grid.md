@@ -4,22 +4,22 @@
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** GRID 210 Current Issues in GRID
-- **B.** **New or Modified Course:** New
-- **C.** **Date of Proposal:**  
+1. **Course Number and Title:** GRID 210 Current Issues in GRID
+1. **New or Modified Course:** New
+1. **Date of Proposal:**  
     - Semester: Fall  
     - Year: 2025
-- **D.** **Effective Term:** Fall 2026
-- **E.** **Sponsoring Department:** Arts & Design
-- **F.** **Semester Credit Hours:** 1
-- **G.** **Weekly Contact Hours:** 2  
+1. **Effective Term:** Fall 2026
+1. **Sponsoring Department:** Arts & Design
+1. **Semester Credit Hours:** 1
+1. **Weekly Contact Hours:** 2  
     - Lecture: 1
     - Laboratory: 1  
     - Out of class student work per week: 2.5
-- **H.** 
+1. 
     - [ ] **Prerequisite (s):**
     - [ ] **Corequisite (s):** 
-- **I.** **Additional Fees:** No.
+1. **Additional Fees:** No.
 
 ## II. Catalog Description
 
@@ -27,15 +27,15 @@ This course examines emerging trends, ethical considerations, and contemporary i
 
 ## III. Statement of Course Need
 
-- **A.** The extremely rapid evolution of game technology and design necessitates ongoing education on emerging trends and ethical concerns.
-- **B.** This course requires the use of a Computer Lab for research, presentations, and discussions.
-- **C.** Transferability of Course: This course may transfer as a free elective or as part of a Game Design or Digital Media degree program.
+1. The extremely rapid evolution of game technology and design necessitates ongoing education on emerging trends and ethical concerns.
+1. This course requires the use of a Computer Lab for research, presentations, and discussions.
+1. Transferability of Course: This course may transfer as a free elective or as part of a Game Design or Digital Media degree program.
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** This course meets a program requirement for GRID.
-- **B.** Free Elective
-- **C.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
+1. This course meets a program requirement for GRID.
+1. Free Elective
+1. To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
 ## V. Outline of Course Content
 
@@ -72,7 +72,7 @@ The course content will change depending upon current trends, but possible topic
 
 ## VI. 
 
-- **A.** **<u>Course Learning Outcomes:</u>**  
+1. **<u>Course Learning Outcomes:</u>**  
 
     **At the completion of the course, students will be able to:**  
     1. Identify and discuss emerging trends in game design.  
@@ -81,7 +81,7 @@ The course content will change depending upon current trends, but possible topic
     4. Interpret and assess regulatory and legal developments in the gaming industry.  
     5. Predict potential future challenges and opportunities in game design.  
 
-- **B.** **<u>Assessment Instruments</u>**  
+1. **<u>Assessment Instruments</u>**  
     1. Weekly discussion participation  
     2. Case study analysis  
     3. Research assignments on current industry trends  
@@ -105,15 +105,24 @@ The modes and methods for teaching and learning that may be used in the course:
 6. Industry reports and research assignments  
 
 ## VIII. Texts and Materials
-- **A.** Suggested readings and online resources:
+1. Suggested readings and online resources:
     - Articles and case studies provided 
-- **B.** Open Educational Resources (OER) and industry whitepapers
+1. Open Educational Resources (OER) and industry whitepapers
 
 ## IX. Resources
-- **A.** Computer lab with internet and software access
+1. Computer lab with internet and software access
 
 (Please Note: The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.)
 
 ## X. Honors Options
 - [ ] Honors Course
 - [x] N/A
+
+<style>
+ol {
+    list-style:upper-alpha;
+}
+ol ol {
+    list-style:decimal;
+}
+</style>

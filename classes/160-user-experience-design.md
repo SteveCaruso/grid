@@ -4,22 +4,22 @@
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** GRID 160 - User Experience Design
-- **B.** **New or Modified Course:** Modified
-- **C.** **Date of Proposal:** 
+1. **Course Number and Title:** GRID 160 - User Experience Design
+1. **New or Modified Course:** Modified
+1. **Date of Proposal:** 
     - Semester: Fall  
     - Year: 2025
-- **D.** **Effective Term:** Fall 2026
-- **E.** **Sponsoring Department:** Arts & Design
-- **F.** **Semester Credit Hours:** 3
-- **G.** **Weekly Contact Hours:** 4
+1. **Effective Term:** Fall 2026
+1. **Sponsoring Department:** Arts & Design
+1. **Semester Credit Hours:** 3
+1. **Weekly Contact Hours:** 4
     - Lecture: 2
     - Laboratory: 2
     - Out of class student work per week: 5
-- **H.** 
+1.  
     - [ ] **Prerequisite (s):** Grade of C or higher in GRID 111 - Creative Computing I
     - [ ] **Corequisite (s):** 
-- **I.** **Laboratory Fees:** No.
+1. **Additional Fees:** No.
 
 ## II. Catalog Description
 
@@ -27,16 +27,16 @@
 
 ## III. Statement of Course Need
 
-- **A.** Computer systems are now a ubiquitous part of everyday life, and how we interact with and through them shapes how we perceive, communicate, and interact with our colleagues, family, and friends, as well as how efficiently we carry out all of our digital tasks. As a result, a deep understanding of the psychology of and best practices behind designing these interfaces (a field commonly referred to as “User Experience” or “UX”) has become increasingly important at virtually every point of human-computer contact.
-- **B.** This course requires the use of a Computer Lab to both learn the software necessary to create user interface assets, as well as to assemble practical user interface projects.
-- **C.** Transferability of Course: This course could transfer as a free elective or as a Computer Science elective.
+1. Computer systems are now a ubiquitous part of everyday life, and how we interact with and through them shapes how we perceive, communicate, and interact with our colleagues, family, and friends, as well as how efficiently we carry out all of our digital tasks. As a result, a deep understanding of the psychology of and best practices behind designing these interfaces (a field commonly referred to as “User Experience” or “UX”) has become increasingly important at virtually every point of human-computer contact.
+1. This course requires the use of a Computer Lab to both learn the software necessary to create user interface assets, as well as to assemble practical user interface projects.
+1. Transferability of Course: This course could transfer as a free elective or as a Computer Science elective.
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** This course meets a program requirement for the Interface Design & Web Development A.A.S., A.S., and Certificate.
-- **B.** Computer Elective on the Computer and Programming Electives List
-- **C.** Free Elective
-- **D.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
+1. Free Elective
+1. This course meets a program requirement for GRID.
+1. Computer Elective on the Computer and Programming Electives List
+1. To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
 ## V. Outline of Course Content
 
@@ -96,19 +96,17 @@
 
 ## VI.
 
-- **A.** **<u>Course Learning Outcomes:</u>**
+1. **<u>Course Learning Outcomes:</u>**
 
     **At the completion of the course, students will be able to:**
     1. Understand UI, and UX theories;
     2. Identify the strengths and weaknesses of interfaces and have a basis for improving upon them;
-    3. Design interfaces to accommodate a wide range of users and skill levels;
-    4. Understand the Iterative Design process;
-    5. Create appropriately descriptive design documentation;
-    6. Prepare and carry out usability testing;
-    7. Apply practical design methodology to develop an interface prototype;
-    8. Tell a coherent, interactive story and/or expression of ideas with digital tools.
+    3. Understand the Iterative Design process and documentation.
+    4. Prepare and carry out usability testing;
+    5. Apply practical design methodology to develop an interface prototype;
+    6. Tell a coherent, interactive story and/or expression of ideas with digital tools.
 
-- **B.** **<u>Assessment Instruments</u>**
+1. **<u>Assessment Instruments</u>**
     1. Computer lab assignments
     2. Quizzes
     3. Midterm examinations
@@ -137,20 +135,29 @@ The modes, and methods for teaching and learning that may be used in the course:
 1. independent study
 
 ## VIII. Texts and Materials
-- **A.** Suggested textbooks:
+1. Suggested textbooks:
     - “The Design of Everyday Things” by Donald A. Norman (latest edition)
     - “Don’t Make Me Think: Revisited” by Steve Krug (latest edition)
     - “100 Things Every Designer Needs to Know About People” by Susan Weinschenk (latest edition)
     - “About Face: The Essentials of Interaction Design” by Alan Cooper et al. (latest edition)
-- **B.** Open Educational Resources (OER)
+1. Open Educational Resources (OER)
 
 ## IX. Resources
-- **A.** Computer lab with overhead projection
-- **A.** Modern web browser software (Chrome)
-- **A.** Microsoft Office Suite
-- **A.** Adobe Suite
-- **A.** Unity or other engine determined by the professor
+1. Computer lab with overhead projection
+1. Modern web browser software (Chrome)
+1. Microsoft Office Suite
+1. Adobe Suite
+1. Unity or other engine determined by the professor
 
 ## X. Honors Options
 - [ ] Honors Course
 - [x] N/A
+
+<style>
+ol {
+    list-style:upper-alpha;
+}
+ol ol {
+    list-style:decimal;
+}
+</style>

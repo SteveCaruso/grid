@@ -4,22 +4,22 @@
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** GRID 111 - Creative Computing I
-- **B.** **New or Modified Course:** Revised
-- **C.** **Date of Proposal:**  
+1. **Course Number and Title:** GRID 111 - Creative Computing I
+1. **New or Modified Course:** Revised
+1. **Date of Proposal:**  
     - Semester: Fall  
     - Year: 2025
-- **D.** **Effective Term:** Fall 2026
-- **E.** **Sponsoring Department:** Arts & Design
-- **F.** **Semester Credit Hours:** 3
-- **G.** **Weekly Contact Hours:** 4 
+1. **Effective Term:** Fall 2026
+1. **Sponsoring Department:** Arts & Design
+1. **Semester Credit Hours:** 3
+1. **Weekly Contact Hours:** 4 
     - Lecture: 2
     - Laboratory: 2  
     - Out of class student work per week: 5
-- **H.** 
+1. 
     - [ ] **Prerequisite (s):** 
     - [ ] **Corequisite (s):** 
-- **I.** **Additional Fees:** Yes
+1. **Additional Fees:** Yes
 
 ## II. Catalog Description
 
@@ -31,18 +31,17 @@ By the end of the course, students will have developed a portfolio of creative p
 
 ## III. Statement of Course Need
 
-- **A.** Unlike traditional introductory computer science courses that emphasize business or scientific computing, this course introduces students to programming for digital media manipulation. It provides a technical foundation in digital media formats commonly used in video games and other interactive media. This knowledge also serves as a basis for understanding how various creative computing tools—such as the Adobe Suite, 3D modeling software, audio production tools, and game engines—process data to produce specific outputs.  
-  
-Throughout this course, students will explore key topics relevant to game development, including input handling, data transformation, image blending, digital animation, and audio effect processing. These concepts are essential for further coursework in game development.
-- **B.** This course has a weekly lab component.  The lab is essential for providing students hands on programming to write Java/JavaScript programs using the processing environment.
-- **C.** This course generally transfers as a game design or game development program requirement or as a general elective.
+1. Unlike traditional introductory computer science courses that emphasize business or scientific computing, this course introduces students to programming for digital media manipulation. It provides a technical foundation in digital media formats commonly used in video games and other interactive media. This knowledge also serves as a basis for understanding how various creative computing tools—such as the Adobe Suite, 3D modeling software, audio production tools, and game engines—process data to produce specific outputs. Throughout this course, students will explore key topics relevant to game development, including input handling, data transformation, image blending, digital animation, and audio effect processing. These concepts are essential for further coursework in game development.
+
+1. This course has a weekly lab component.  The lab is essential for providing students hands on programming to write Java/JavaScript programs using the processing environment.
+1. This course generally transfers as a game design or game development program requirement or as a general elective.
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** This course meets a program requirement for GRID.
-- **B.** This is a General Education Elective course that satisfies Technological Competency (pending approval)
-- **C.** Free Elective
-- **D.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
+1. This course meets a program requirement for GRID.
+1. This is a General Education Elective course that satisfies Technological Competency (pending approval)
+1. Free Elective
+1. To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
 ## V. Outline of Course Content
 
@@ -98,7 +97,7 @@ Throughout this course, students will explore key topics relevant to game develo
 
 ## VI. 
 
-- **A.** **<u>Course Learning Outcomes:</u>**  
+1. **<u>Course Learning Outcomes:</u>**  
 
     **At the completion of the course, students will be able to:**  
     1. Solve data processing problems by using the Javascript or Java languages to produce well designed computer programs to modify digital media files (GE-NJ 4) 
@@ -107,7 +106,7 @@ Throughout this course, students will explore key topics relevant to game develo
     4. Apply programming constructs in Java/Javascript and the Processing environment to read user input from a variety of devices and decision structures , loops, methods, Objects, arrays to create and modify visual and audio digital output. 
     5. Use algorithm design methods as a model for the writing, debugging, and testing of a program to solve a problems with rich digital media.
 
-- **B.** **<u>Assessment Instruments</u>**  
+1. **<u>Assessment Instruments</u>**  
     1. Programming projects (required)
     2. exams
     3. Weekly homework
@@ -130,19 +129,28 @@ The modes and methods for teaching and learning that may be used in the course:
 1. student collaboration
 
 ## VIII. Texts and Materials
-- **A.** Suggested readings and online resources:
+1. Suggested readings and online resources:
     - Processing, second edition: A Programming Handbook for Visual Designers and Artists (Mit Press) 2nd ed. OR
     - Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction (The Morgan Kaufmann Series in Computer Graphics) 2nd Edition 
-- **B.** primary sources
-- **C.** student sample code
-- **D.** web sources – Processing samples online
+1.  primary sources
+1.  student sample code
+1.  web sources – Processing samples online
 
 ## IX. Resources
-- **A.** Computer Lab for classroom instruction and exercises
-- **B.** Technology Support (Javascript enabled web browser installed on the workstations in the Computer Lab, Processing development environment (PDE) and Java SDK.
+1.  Computer Lab for classroom instruction and exercises
+1.  Technology Support (Javascript enabled web browser installed on the workstations in the Computer Lab, Processing development environment (PDE) and Java SDK.
 
 (Please Note: The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.)
 
 ## X. Honors Options
 - [ ] Honors Course
 - [x] N/A
+
+<style>
+ol {
+    list-style:upper-alpha;
+}
+ol ol {
+    list-style:decimal;
+}
+</style>

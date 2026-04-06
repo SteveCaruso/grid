@@ -4,22 +4,22 @@
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** GRID 140 - Intro to Art For Game Designers
-- **B.** **New or Modified Course:** New
-- **C.** **Date of Proposal:**  
+1. **Course Number and Title:** GRID 140 - Intro to Art For Game Designers
+1. **New or Modified Course:** New
+1. **Date of Proposal:**  
     - Semester: Fall  
     - Year: 2025
-- **D.** **Effective Term:** Fall 2026
-- **E.** **Sponsoring Department:** Arts & Design
-- **F.** **Semester Credit Hours:** 3
-- **G.** **Weekly Contact Hours:** 4
+1. **Effective Term:** Fall 2026
+1. **Sponsoring Department:** Arts & Design
+1. **Semester Credit Hours:** 3
+1. **Weekly Contact Hours:** 4
     - Lecture: 2
     - Laboratory: 2  
     - Out of class student work per week: 5
-- **H.**  
+1.   
     - [ ] **Prerequisite (s):**
     - [ ] **Corequisite (s):**
-- **I.** **Additional Fees:** Yes
+1. **Additional Fees:** No
 
 ## II. Catalog Description
 
@@ -27,17 +27,17 @@ This is a course that focuses on the basics that game design students need to cr
 
 ## III. Statement of Course Need
 
-- **A.** Students need to start with a survey of what will be required, and what is at their disposal as a digital artist in the game industry. The integration and application of traditional drawing skills and digital graphic applications into game development environments is unique to the discipline. Combining this with animation at an early level within the curriculum both prepares and excites students for future projects.
+1. Students need to start with a survey of what will be required, and what is at their disposal as a digital artist in the game industry. The integration and application of traditional drawing skills and digital graphic applications into game development environments is unique to the discipline. Combining this with animation at an early level within the curriculum both prepares and excites students for future projects.
 
-- **B.** This Course requires the use of IDEA Lab 1 or 2 (W213 or W205) or equivalent space for software access and studio work time.
+1. This Course requires the use of IDEA Lab 1 or 2 (W213 or W205) or equivalent space for software access and studio work time.
 
-- **C.** This course generally transfers as a game design or game development program requirement or as a general elective.
+1. This course generally transfers as a game design or game development program requirement or as a general elective.
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** This course meets a program requirement for GRID.
-- **B.** Free Elective
-- **C.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
+1. Free Elective
+1. This course meets a program requirement for GRID.
+1. To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
 ## V. Outline of Course Content
 
@@ -88,7 +88,7 @@ This is a course that focuses on the basics that game design students need to cr
 
 ## VI.
 
-- **A.** **<u>Course Learning Outcomes:</u>**  
+1. **<u>Course Learning Outcomes:</u>**  
 
     **At the completion of the course, students will be able to:**  
     1. Understand traditional and digital art tools and the workflow that shapes a final game product.
@@ -96,7 +96,7 @@ This is a course that focuses on the basics that game design students need to cr
     3. Hone skills so a student may be better informed at choosing tools for future projects and employment opportunities.
     4. Increase soft skills via teamwork and critical thinking/problem solving challenges.
 
-- **B.** **<u>Assessment Instruments</u>**  
+1. **<u>Assessment Instruments</u>**  
     1. Research
     1. Studio Projects
     1. Critique participation
@@ -115,19 +115,27 @@ The modes and methods for teaching and learning that may be used in the course:
 1. Studio/Lab Work
 
 ## VIII. Texts and Materials
-- **A.** Primary sources
-- **B.** film and video
-- **C.** audio sources
-- **D.** web sources
-- **E.** video and tabletop game content
+1. Primary sources
+1. film and video
+1. audio sources
+1. web sources
+1. video and tabletop game content
 
 The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.
 
 ## IX. Resources
-- **A.** Computer Lab for classroom instruction and exercises
-- **B.** Internet Access
+1. Computer Lab for classroom instruction and exercises
+1. Internet Access
 
 ## X. Honors Options
 - [ ] Honors Course
 - [x] N/A
 
+<style>
+ol {
+    list-style:upper-alpha;
+}
+ol ol {
+    list-style:decimal;
+}
+</style>

@@ -4,51 +4,49 @@
 
 ## I. Basic Course Information
 
-- **A.** **Course Number and Title:** : GRID 130 - Web Page Development I
-- **B.** **New or Modified Course:** Modified
-- **C.** **Date of Proposal:**
+1. **Course Number and Title:** : GRID 130 - Web Page Development I
+1. **New or Modified Course:** Modified
+1. **Date of Proposal:**
     - Semester: Fall  
     - Year: 2025
-- **D.** **Effective Term:** Fall 2026
-- **E.** **Sponsoring Department:** Arts & Design
-- **F.** **Semester Credit Hours:** 3
-- **G.** **Weekly Contact Hours:**
+1. **Effective Term:** Fall 2026
+1. **Sponsoring Department:** Arts & Design
+1. **Semester Credit Hours:** 3
+1. **Weekly Contact Hours:** 4
     - Lecture: 2
     - Laboratory: 2
     - Out of class student work per week: 5
-- **H.** 
+1. 
     - [ ] **Prerequisite (s):**
     - [ ] **Corequisite (s):** 
-- **I.** **Laboratory Fees:** Yes.
+1. **Laboratory Fees:** Yes.
 
 ## II. Catalog Description
 
 This course provides students the skills required to author standards based Web sites
 using the Hypertext Markup Language (HTML) and Cascading Style Sheets (CSS)
 specifications. HTML and CSS will be used to create effective Web pages accessible on
-a variety of computer platforms. Students will learn how to incorporate tables, forms,
-images, and video into Web pages and will be briefly introduced to responsive web page
-design.
+a variety of computer platforms. Students will learn how to build responsive webpages that incorporate tables, forms, images, video, and other media.
 
 ## III. Statement of Course Need
 
-- **A.** As businesses continue to incorporate Web based strategies in order to remain
+1. As businesses continue to incorporate Web based strategies in order to remain
 competitive in today’s online world, the demand for Web site professionals remains
 strong. In the early days of Web development, a rudimentary knowledge of HTML
 was all that was required in order to become a successful Web page developer.
 Today, professionals need to be familiar with HTML, CSS, Responsive Design,
 JavaScript, database programming, server side programming, etc. This course is the
 first step any future Web developer must take in the journey to proficiency.
-- **B.** Lab time is required in this course in order to allow students to complete the class project, an iterative Website incorporating all of the key concepts covered in the course lecture.
-- **C.** This course generally transfers as a Web Development program requirement
+1. Lab time is required in this course in order to allow students to complete the class project, an iterative Website incorporating all of the key concepts covered in the course lecture.
+1. This course generally transfers as a Web Development program requirement
 
 ## IV. Place of Course in College Curriculum
 
-- **A.** This course meets a program requirement for GRID.
-- **B.** Free Elective
-- **C.** This course serves as a Computer Elective on the Computer and Programming
-Electives List
-- **D.** To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
+1. Free Elective
+1. This course meets a program requirement for GRID, Computer Programming (AAS), Information Systems and Technology (AS), and the Computer Information Support Certificate.
+1. This course serves as a Computer Elective on the Computer and Programming
+Electives List.
+1. To see course transferability: a) for New Jersey schools, go to the NJ Transfer website, www.njtransfer.org; b) for all other colleges and universities, go to the individual websites.
 
 ## V. Outline of Course Content
 
@@ -76,7 +74,7 @@ Electives List
 
 ## VI.
 
-- **A.** **<u>Course Learning Outcomes:</u>**
+1. **<u>Course Learning Outcomes:</u>**
 
     **At the completion of the course, students will be able to:**
     1. Design and publish modern webpages using modern web standards.
@@ -84,7 +82,7 @@ Electives List
     3. Develop standards based Web pages using appropriate HTML and CSS syntax.
     4. Separate style from content using CSS and HTML.
 
-- **B.** **<u>Assessment Instruments</u>**
+1. **<u>Assessment Instruments</u>**
     1. personal website
     2. demonstrations
 
@@ -103,16 +101,25 @@ The modes, and methods for teaching and learning that may be used in the course:
 1. student collaboration
 
 ## VIII. Texts and Materials
-- **A.** suggested textbook:
+1. suggested textbook:
     - Web Development and Design Foundations with HTML5, (Latest Edition)
     - Terry Felke Morris
 
 (Please Note: The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.)
 
 ## IX. Resources
-- **A.** Computer lab with Internet access.
-- **B.** Code repository, modern publishing tools, and relevant accounts.
+1. Computer lab with Internet access.
+1. Code repository, modern publishing tools, and relevant accounts.
 
 ## X. Honors Options
 - [ ] Honors Course
 - [x] N/A
+
+<style>
+ol {
+    list-style:upper-alpha;
+}
+ol ol {
+    list-style:decimal;
+}
+</style>
