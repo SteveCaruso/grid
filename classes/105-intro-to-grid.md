@@ -1,10 +1,10 @@
 # RARITAN VALLEY COMMUNITY COLLEGE ACADEMIC COURSE OUTLINE
 
-# GRID 100 – Introduction to GRID
+# GRID 105 – Introduction to GRID
 
 ## I. Basic Course Information
 
-1. **Course Number and Title:** GRID 100 Introduction to GRID
+1. **Course Number and Title:** GRID 105 Introduction to GRID
 1. **New or Modified Course:** New
 1. **Date of Proposal:**  
     - Semester: Fall  

@@ -77,10 +77,10 @@ Electives List.
 1. **<u>Course Learning Outcomes:</u>**
 
     **At the completion of the course, students will be able to:**
-    1. Design and publish modern webpages using modern web standards.
-    2. Communicate and collaborate with others in the design and development of small   Web sites.
-    3. Develop standards based Web pages using appropriate HTML and CSS syntax.
-    4. Separate style from content using CSS and HTML.
+    1. Design and publish modern webpages using modern web standards. (GE-4) 
+    1. Communicate and collaborate with others in the design and development of small websites. (GE-IL) 
+    1. Develop standards-based webpages using appropriate HTML and CSS syntax. 
+    1. Separate style from content using CSS and HTML. 
 
 1. **<u>Assessment Instruments</u>**
     1. personal website

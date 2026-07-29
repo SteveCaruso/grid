@@ -1,11 +1,11 @@
 # RARITAN VALLEY COMMUNITY COLLEGE ACADEMIC COURSE OUTLINE
 
-# GRID 220 - Interactive Audio & Video Design
+# GRID 220 - Game Cinematics
 
 ## I. Basic Course Information
 
 1. **Course Number and Title:** GRID 220 - Interactive Audio & Video Design
-1. **New or Modified Course:** Modified
+1. **New or Modified Course:** New
 1. **Date of Proposal:**  
     - Semester: Fall  
     - Year: 2025
@@ -17,17 +17,17 @@
     - Laboratory: 2  
     - Out of class student work per week: 5
 1.  
-    - [x] **Prerequisite (s):** A C or better in GRID 150 Game Engines
+    - [x] **Prerequisite (s):** A grade of C or higher in GRID140 - Intro to Art for Game Designers .
     - [ ] **Corequisite (s):** 
 1. **Additional Fees:** No
 
 ## II. Catalog Description
 
-**Prerequisite: A C or better in GRID 150 Game Engines.** This course will cover the theory, as well as practical applications, of audio and computer video techniques as used in the game industry. Emphasis will be placed on methods of sound integration and video effects and how they impact character development and enhance the game-playing experience. Additional audio topics covered include: sound perception, waveform editing, sound effects and an introduction to MIDI, music composition and voiceovers. Computer video topics include: image composition, virtual cameras, motion capture and video compression.
+**Prerequisite: A grade of C or higher in GRID140 - Intro to Art for Game Designers.**   This course will cover the theory as well as practical applications of audio and computer video techniques as used in game cinematics. Emphasis will be placed on methods of sound integration and video effects and how they impact character development and enhance the game-playing experience. Additional audio topics covered include sound perception, waveform editing, sound effects, and an introduction to MIDI, music composition, and voiceovers. Computer video topics include: image composition, virtual cameras, motion capture and video compression. 
 
 ## III. Statement of Course Need
 
-1. Students planning a career in game development must have at least a general knowledge of audio and computer video techniques to allow them to communicate with the specialists in these areas. Additionally, specific knowledge of video and audio techniques is necessary in the development of game characters, synchronization of sound and animation and to create additional layers of richness in the game environment
+1. Students planning a career in game development must have at least a general knowledge of audio and computer video techniques to allow them to communicate with the specialists in these areas. Additionally, specific knowledge of video and audio techniques is necessary in the development of game characters, synchronization of sound and animation and to create additional layers of richness in the game environment 
 1. This course requires the use of a Computer Lab for research, presentations, and discussions.
 1. This course generally transfers as a game design or game development program requirement or as a general elective.
 
@@ -78,31 +78,31 @@
 1. **<u>Course Learning Outcomes:</u>**  
 
     **At the completion of the course, students will be able to:**  
-    1. Produce a written process log of their game audio project  (GE-NJ 1, 4)  
-    2. Demonstrate knowledge of the legal and ethical issues related to sound and video sampling and the current copyright laws pertaining to music, video and audio recordings (GE-NJ 4, *) * Embedded critical thinking 
-    3 Demonstrate knowledge of the current hardware and software used for computer audio
-    4. Explain the major film genres and the concept of visual narrative as applied to game development
-    5. Develop and direct a scene for motion capture artist and incorporate result into cutscene in game engine
+    1. Produce a written process log of their game audio project (GE-1, 4) 
+    1. Demonstrate knowledge of the legal and ethical issues related to sound and video sampling and the current copyright laws pertaining to music, video and audio recordings (GE-ER) 
+    1. Demonstrate knowledge of the current hardware and software used for computer audio 
+    1. Develop and direct a scene for motion capture artist and incorporate result into cutscene in game engine 
 
 1. **<u>Assessment Instruments</u>**  
-    1. projects (required)
-    2. Design documentation – (required) 
-    3. reading quizzes
-    4. class participation 
+    1.  Projects (required) 
+    2.  Design documentation (required) 
+    3.  Game Cinematic Project (required) 
+    4.  Reading quizzes 
+    5.  Class participation 
 
 ## VII. Grade Determinants
 
-1. Projects (Audio & Video)
-1. Homework  - The student will complete homework assignments throughout the semester related to topics discussed in the class. 
-1. Paper – character development and audio
-1. Section tests – multiple choice midterm and final on key concepts
+1. Projects (Required) 
+1. Homework 
+1. Quizzes 
+1. Paper – character development and audio 
 
 The modes and methods for teaching and learning that may be used in the course:
 
-1. lecture/discussion  
-1. student collaboration
-1. small-group work 
-1. laboratory 
+1. Lecture/discussion 
+1. Student collaboration 
+1. Small-group work 
+1. Laboratory 
 
 ## VIII. Texts and Materials
 1. Suggested readings and online resources:
@@ -116,10 +116,13 @@ The modes and methods for teaching and learning that may be used in the course:
     4. GameDeveloper.com  
 
 ## IX. Resources
-1. Computer lab with audio production software and recording capabilities 
-1. Adobe Creative Suite 
-1. GameMaker Studio, Construct or other 2D game engine
-1. Unity 3D, Unreal engine or other 3D game engine 
+1. Computer desktop workstation with dedicated graphics card 
+1. Game Engine software (Construct, Unity, Game Maker, Unreal, etc.) 
+1. Digital Drawing tablets 
+1. Adobe Creative Cloud or similar 
+1. Three-dimensional modeling software (Maya, Houdini, 3DS Max or similar) 
+1. Javascript enabled web browser installed on the workstations in the Computer Lab, Processing development environment (PDE) and Java SDK. 
+1. Motion capture studio 
 
 ## X. Honors Options
 - [ ] Honors Course

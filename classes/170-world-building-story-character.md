@@ -1,17 +1,15 @@
 # RARITAN VALLEY COMMUNITY COLLEGE ACADEMIC COURSE OUTLINE
 
-**CURRENT COURSE OUTLINE IN OUTDATED FORMAT**
-
-# ARTS 259 — Game Narrative and Concepts
+# GRID 170 – Game Design: World Building, Story, & Character  
 
 ## I. Basic Course Information
 
-1. **Course Number and Title:** ARTS 259 — Game Narrative and Concepts
+1. **Course Number and Title:** GRID 170 – Game Design: World Building, Story, & Character
 1. **New or Modified Course:** Modified
 1. **Date of Proposal:**  
-    - Semester: Spring  
-    - Year: 2021
-1. **Effective Term:** Fall 2021
+    - Semester: Fall  
+    - Year: 2025
+1. **Effective Term:** Fall 2026
 1. **Sponsoring Department:** Arts & Design
 1. **Semester Credit Hours:** 3
 1. **Weekly Contact Hours:** 4 
@@ -19,21 +17,19 @@
     - Laboratory: 2  
     - Out of class student work per week: 5
 1. 
-    - [ ] **Prerequisite (s):**
-    - [x] **Corequisite (s):** ARTS106 Foundations of Game Engines or GDEV106 Fundamentals of Game Design
+    - [x] **Prerequisite (s):** A grade of C or better in GRID140 Intro to Art for Game Designers
+    - [x] **Corequisite (s):** 
 1. **Additional Fees:** No.
 
 ## II. Catalog Description
 
-**Prerequisite/Corequisite: ARTS 106 Foundations of Game Engines or GDEV106 Fundamentals of Game Design** — Game Narrative and Concepts introduces students to methods of building a cohesive framework and setting for games or other interactive narrative experiences. Believable environmental and political systems, cultures, characters, and mythologies are addressed. In addition storytelling and writing narrative arcs will be focused upon.
+**Prerequisite: A grade of C or better in GRID140 Intro to Art for Game Designers** — Game Narrative and Concepts introduces students to methods of building a cohesive framework and setting for games or other interactive narrative experiences. Believable environmental and political systems, cultures, characters, and mythologies are addressed. In addition storytelling and writing narrative arcs will be focused upon.
 
 ## III. Statement of Course Need
 
-1. This course is fundamental for the rest of the Game Art and Game Development programs. It helps students learn to build engaging, believable interactive worlds. This is an essential aspect for both creative development and designing attractive and marketable games. It continues the theme of cohort taught art and technology courses.
+1. This course is fundamental for design paths in the GRID degree. It helps students learn to build engaging, believable interactive worlds. This is an essential aspect for both creative development and designing attractive and marketable games. It continues the theme of cohort taught art and technology courses.
 1. This course has a lab component that is required to collaboratively work on both studio art and technology based game design. Students will be required to use computers, scanners and tablets, to perform tasks such as digital drawing and programming.
-1. This course will generally transfer to institutions offering game and multimedia based
-design degrees. The skills used in this course will be required for transferring into any
-corresponding programs.
+1. This course generally transfers as a game design or game development program requirement, as a program elective, or as an elective dependent upon the transfer institution. 
 
 ## IV. Place of Course in College Curriculum
 
@@ -76,31 +72,25 @@ corresponding programs.
 
 ## VI. 
 
-1. **<u>General Learning Outomes:</u>**
+1. **<u>Course Learning Outcomes:</u>**
     **At the completion of the course, students will be able to:** 
-    1. Apply appropriate technological tools to design projects. (GE-NJ 4,6 *)
-    2. Illustrate narrative design concepts from historical, cultural and social perspectives. (GE-NJ 1,6)
-    3. Demonstrate the application of analysis and problem solving to achieve design solutions. (GE-NJ 4, *)  
-
-*Embedded critical thinking
-
-1. **<u>Course Learning Outcomes:</u>**  
-
-    **At the completion of the course, students will be able to:**  
-    1. Produce artwork and interactive computer art that demonstrates narrative and concept development.
-    2. Incorporate historical and source material in narrative development.
-    3. Develop conceptually sophisticated game environments
+    1. Apply appropriate technological tools to design projects that produces interactive computer art that demonstrates narrative and concept development (GE-4,6) 
+    1. Illustrate narrative design concepts from historical, cultural and social perspectives. (GE 1,6) 
+    1. Demonstrate the application of analysis and problem solving to achieve design solutions. (GE- 4) 
+    1. Logically and persuasively state and support orally and in writing their points of view or findings. (GE-1) 
+    1. Incorporate historical and source material in narrative development to develop conceptually sophisticated game environments
 
 1. **<u>Assessment Instruments</u>**  
-    1. Art projects
-    2. Digital interactive projects
+    1. Art projects (required)
+    2. Digital interactive projects (required)
     3. Essays
     4. Exams
+    5. Presentations
 
 ## VII. Grade Determinants
 
-1. Projects
-1. Art/Computer Design
+1. Projects (required)
+1. Art/Computer Design (required)
 1. Exams
 1. Presentations
 
@@ -119,15 +109,16 @@ The modes and methods for teaching and learning that may be used in the course:
 1. art examples
 1. game design examples
 1. web video
-1. online learning resources (Lynda.com, etc…)
+1. online learning resources (ArtStation, Unity Learn, Unreal Academy, etc.)… 
 
 ## IX. Resources
-1. MAC workstations (art)
-1. PC workstations (programming)
-1. Digital drawing tablets
-1. Adobe creative cloud software
-1. Unity game engine
-1. Paper drawing tablet, pencils and other art supplies
+1. Computer desktop workstation with dedicated graphics card 
+1. Game engine software (construct, unity, game maker, unreal, etc.) 
+1. Digital drawing tablets 
+1. Adobe creative cloud or similar 
+1. Three-dimensional modeling software (maya, Houdini, 3DS max or similar) 
+1. Space for working with traditional art media 
+1. JavaScript enabled web browser installed on the workstations in the computer lab, processing development environment (PDE) and java SDK. 
 
 (Please Note: The course outline is intended only as a guide to course content and resources. Do not purchase textbooks based on this outline. The RVCC Bookstore is the sole resource for the most up-to-date information about textbooks.)
 

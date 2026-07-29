@@ -1,6 +1,6 @@
 # RARITAN VALLEY COMMUNITY COLLEGE ACADEMIC COURSE OUTLINE
 
-# GRID 120 – Game Design Theory
+# GRID 120 – Game Design: Systems
 
 ## I. Basic Course Information
 
@@ -109,51 +109,41 @@ Electives List
     5. Analyze and critique analog and digital games.
 
 1. **<u>Assessment Instruments</u>**  
-    1. laboratory products – (ie game design and components)
-    2. research papers – (ie. Interface, control or screen flow analysis)
-    3. demonstrations – (ie examination of their game in play)
-    4. essays
-    5. journals – (ie. record of their game design process)
-    6. portfolios – (ie. archive of changes in the components)
-    7. computer programs
-    8. presentations
-    9. interviews (ie one on one or group discussions)
-    10. Programming projects (required)
-    11. exams
-    12. Weekly homework
-    13. presentations 
+    1. Design lab products – (required)
+    1. Design journals – (required) 
+    1. Writing (required) 
+    1. Portfolios – (ie. Archive of changes in the components) 
+    1. Demonstrations – (i.e. Examination of their game in play) 
+    1. Presentations (required) 
 
 ## VII. Grade Determinants
 
-1. Homework - The student will complete homework assignments throughout the
-semester to develop their understanding of the formal language of game analysis and
-of games as systems.
-1. Game Analysis – Students will create a paper detailing their analysis of several
-popular board, card and video games.
-1. Game Project – Students will conceptualize and prototype a game using an iterative
-design process. The game will serve as the basis for planning the implementation of
-the game as a digital game.
-    - Students will produce:
-        1. Technical writing – Rule Set
-        2. Game Protoype
-        3. Digital conversion design document
-1. Presentation – The student will present their game design to professionals from the
-game industry
+1. Homework - (required) 
+    1. develop their understanding of the formal language of game analysis and of games as systems. 
+1. Game Analysis  
+    1. Students will create a paper detailing their analysis of systems in several tabletop and video games. 
+1. Game Project (required)  
+    1. Writing documentation (Required)  
+        1. Technical writing – Rule Set 
+        1. Game Protoype 
+        1. Digital conversion design document 
+1. Presentation (required) 
+ 
+Given the goals and outcomes described above, LIST the primary formats, modes, and methods for teaching and learning that may be used in the course: 
 
-The modes and methods for teaching and learning that may be used in the course:
+1. Lecture/discussion 
+1. Small-group work 
+1. Computer-assisted instruction 
+1. Guest speakers 
+1. Laboratory 
+1. Student oral presentations 
+1. Simulation/role playing 
+1. Student collaboration 
+1. Independent study 
 
-1. lecture/discussion
-1. small-group work
-1. computer-assisted instruction
-1. guest speakers
-1. laboratory
-1. student oral presentations
-1. simulation/role playing
-1. student collaboration
-1. independent study
 
 ## VIII. Texts and Materials
-1. suggested textbook - Fullerton, Tracy, Game Design Workshop, A Playcentric
+1. Suggested textbook - Fullerton, Tracy, Game Design Workshop, A Playcentric
 Approach to Creating Innovative Games, Taylor & Francis, 2008.
 1. primary sources – Common video game for analysis and discussion such as
 Plants Vs. Zombies
