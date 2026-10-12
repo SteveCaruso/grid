@@ -38,16 +38,29 @@ RVCC is currently accredited by Middle States Commission on Higher Education.
 #### 2) Provide evidence of appropriately qualified faculty, instructors, staff instructors and/or administrators.
 _Additional evidence may include, as applicable, other academic units within or outside the institution (e.g., clinical sites) to provide educational services to the program and the commitment of those units is consistent with offering a program of quality in the field._
 
+The GRID Program will be housed in the Arts & Design Department (A&D) under the Dean of the Division of Arts & Design, English, HSSE, and Library. Administrative support will be provided by Arts & Design.
+
 ### Full-time Faculty:
-- Bill Crosbie, Associate Professor
-- Steve Caruso, Assistant Professor
-- John Harford, Instructor
+**Bill Crosbie, Associate Professor**  
+Coordinator of the original Game Development Program. He holds an M.A. from Columbia University and a B.S. from Gordon College. Areas of expertise include Game Development, Multimedia, Web. Interests include virtual reality spaces for data visualization Global Game Jam where he was Regional Coordinator (US) Global Game Jam and Site Organizer. He will be teaching Creative Computing, GRID Production, the 1 Credit Touchstone classes, Game Design: Systems, Game Engines, and various electives.
+
+**Steve Caruso, Assistant Professor**  
+Coordinator of the original Interface Design & Web Development (IDMX) Program. He holds an MLIS from the School of Communication, Information & Library Science, Rutgers University and a B.A. in Information Technology and Informatics also from Rutgers University. Areas of relevant expertise include General Computing, Multimedia Production, Web Development, Game Development, Artificial Intelligence, and, Digitization & Archiving. He was a Programming Consultant for The Comprehensive Aramaic Lexicon (NEH Grant PW-50002-08) and a Researcher & Manuscript Digitization Consultant for The Mandaean Book of John: Critical Edition (NEH Grant RQ-50649-12). He is also the Director of the Academy for Resurrected Games and Holdings (ARGH) which publishes several card and board games and is on the board of PrinceCon, the longest running (50+ years) tabletop roleplaying convention on the East Coast, an organization which he has been involved with for roughly 25 years. He will be teaching Creative Computing, GRID Production, the 1 Credit Touchstone classes, Web Page Development I & II, User Experience Design, and From Concept to Company.
+
+**John Harford, Instructor**  
+Coordinator of the original Game Art Program. He holds an M.F.A., Maryland Institute College of Art, and a B.A. from Stockton University. He is a multi-disciplinary artist whose experience spans photography, multimedia and installation. He is also a tabletop game designer and author, with now over a dozen books and related supplements published through his publication company, Fox and Boar Games. John also plays a variety of medieval and ancient instruments, employing them both traditionally and in contemporary genres. He will be teaching Creative Computing, GRID Production, the 1 Credit Touchstone classes, Intro to Art for Game Designers, Game Design: World Building, Story & Character, Game Cinematics, and other arts classes.
 
 ### Adjuncts:
-- Cynthia Teeters
-- Lynn Sichel
+**Cynthia Teeters, Adjunct Associate Professor**  
+She holds an M.S. in Chemistry from University of Illinois at Urbana-Champaign and a B.S. in Chemistry from University of California, Los Angeles (UCLA).     She also holds Anthropic AI Fluency certification, is an Adobe Certified Associate in Visual Design Using Adobe Photoshop and is the Arts & Design Department's Digital Accessibility Liaison (DAL). Her courses involve an AI-integrated curriculum built around the tools students actually use in professional work, including Claude Code and GitHub Copilot Pro. She will be teaching JavaScript and Web Page Development II.
 
-_(See Addenda for credentials.)_
+**Lynn Sichel, Adjunct**  
+[[additional]]
+She will be teaching Web Page Development I.
+
+_(See Addenda for full credentials.)_
+
+
 **[[Put details in here with narrative etc.]]**
 **[[Readers won’t go to an appendix.]]**
 
